@@ -1,6 +1,7 @@
 package mlb;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 /**
  * @author Roman Yasinovskyy
  */
@@ -70,9 +71,10 @@ public class DatabaseWriterTest {
 
     /**
      * Test of readPlayerFromCsv method, of class DatabaseWriter.
+     * @throws FileNotFoundException
      */
     @Test
-    public void testReadPlayerFromCsv() {
+    public void testReadPlayerFromCsv() throws FileNotFoundException {
         System.out.println("readPlayerFromCsv");
         String filename = "data/mlb/players.csv";
         DatabaseWriter instance = new DatabaseWriter();

@@ -8,6 +8,7 @@ import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonToken;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.opencsv.CSVReader;
+import com.opencsv.CSVReaderBuilder;
 import com.opencsv.exceptions.CsvValidationException;
 
 import java.io.ByteArrayOutputStream;
@@ -19,6 +20,7 @@ import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
@@ -33,6 +35,7 @@ public class DatabaseWriter {
     /**
      * @param filename (JSON file)
      * @return League
+     * cahnge to read the logo file or write team table to do same thing
      */
     public ArrayList<Team> readTeamFromJson(String filename) {
         ArrayList<Team> league = new ArrayList<>();
@@ -63,18 +66,55 @@ public class DatabaseWriter {
         ArrayList<Address> addressBook = new ArrayList<>();
         try {
             Scanner fs = new Scanner(new File(filename));
+            
             // TODO: Parse each line into an object of type Address and add it to the ArrayList
+            while (fs.hasNextLine()) {
+                String line = fs.nextLine();
+                String[] data = line.split("\t");
+                if (data.length == 8) {
+                    String team = data[0];
+                    String arena = data[1];
+                    String street = data[2];
+                    String city = data[3];
+                    String state = data[4];
+                    String zip = data[5];
+                    String phone = data[6];
+                    String url = data[7];
+
+                    Address address = new Address(team, arena, street, city, state, zip, phone, url);
+                    addressBook.add(address);
+                }
+                
+            }
+            fs.close();
         } catch (IOException ex) {
-            Logger.getLogger(DatabaseReader.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(DatabaseWriter.class.getName()).log(Level.SEVERE, null, ex);
         }
 
         return addressBook;
     }
 
-    public ArrayList<Player> readPlayerFromCsv(String filename) {
+    public ArrayList<Player> readPlayerFromCsv(String filename){
         ArrayList<Player> roster = new ArrayList<>();
         CSVReader reader = null;
+        int firstLine = 0;
         // TODO: Read the CSV file, create an object of type Player from each line and add it to the ArrayList
+        try {
+            reader = new CSVReaderBuilder(new FileReader(filename)).build();
+            String[] nextLine;
+            while ((nextLine = reader.readNext())!= null) {
+                if (firstLine > 0) {
+                    Player player = new Player(nextLine[0], nextLine[1], nextLine[4], nextLine[2]);
+                    roster.add(player);
+                }
+                firstLine++;
+            }
+            
+        } catch (CsvValidationException | IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        
 
         return roster;
     }
@@ -154,16 +194,28 @@ public class DatabaseWriter {
      * @param db_filename
      * @param league
      * @throws java.sql.SQLException
+     * 
+     * Sources used:
+     * https://www.freecodecamp.org/news/insert-into-sql-how-to-insert-into-a-table-query-example-statement/
      */
     public void writeTeamTable(String db_filename, ArrayList<Team> league) throws SQLException {
         Connection db_connection = DriverManager.getConnection(SQLITEDBPATH + db_filename);
         db_connection.createStatement().execute("PRAGMA foreign_keys = ON;");
         db_connection.setAutoCommit(false);
         // TODO: Write an SQL statement to insert a new team into a table
-        String sql = "";
+        //write logo based on the logo + team abbreviation
+        String sql = "insert into team(id, abbr, name, conference, division, logo) values(?,?,?,?,?,?)";
         for (Team team : league) {
             PreparedStatement statement_prepared = db_connection.prepareStatement(sql);
             // TODO: match parameters of the SQL statement and team id, abbreviation, name, conference, division, and logo
+            statement_prepared.setString(1, team.getId());
+            statement_prepared.setString(2, team.getAbbreviation());
+            statement_prepared.setString(3, team.getName());
+            statement_prepared.setString(4, team.getConference());
+            statement_prepared.setString(5, team.getDivision());
+            String filepath = "images/mlb/logo_" + team.getAbbreviation().toLowerCase() + ".jpg";
+            statement_prepared.setBytes(6, readLogoFile(filepath));
+            
             statement_prepared.executeUpdate();
         }
         db_connection.commit();
@@ -174,16 +226,38 @@ public class DatabaseWriter {
      * @param db_filename
      * @param addressBook
      * @throws java.sql.SQLException
+     * 
+     * Sources used:
+     * https://dba.stackexchange.com/questions/101075/insert-query-with-a-subquery
      */
     public void writeAddressTable(String db_filename, ArrayList<Address> addressBook) throws SQLException {
         Connection db_connection = DriverManager.getConnection(SQLITEDBPATH + db_filename);
         db_connection.createStatement().execute("PRAGMA foreign_keys = ON;");
         db_connection.setAutoCommit(false);
+
         for (Address address : addressBook) {
             // TODO: Write an SQL statement to insert a new address into a table
-            String sql = "";
+            Statement statement = db_connection.createStatement();
+        
+            ResultSet result_tname = statement.executeQuery("select idpk from team where team.name = '"
+                + address.getTeam() + "'");
+            int team_idpk = result_tname.getInt(1);
+
+            
+            String sql = "insert into address (team, site, street, city, state, zip, phone, url) " + "values(?,?,?,?,?,?,?,?)";
+
             PreparedStatement statement_prepared = db_connection.prepareStatement(sql);
             // TODO: match parameters of the SQL statement and address site, street, city, state, zip, phone, and url
+            statement_prepared.setInt(1, team_idpk);
+            statement_prepared.setString(2, address.getArena());
+            statement_prepared.setString(3, address.getStreet());
+            statement_prepared.setString(4, address.getCity());
+            statement_prepared.setString(5, address.getState());
+            statement_prepared.setString(6, address.getZip());
+            statement_prepared.setString(7, address.getPhone());
+            statement_prepared.setString(8, address.getUrl());
+
+
             statement_prepared.executeUpdate();
         }
         db_connection.commit();
@@ -201,9 +275,18 @@ public class DatabaseWriter {
         db_connection.setAutoCommit(false);
         for (Player player : roster) {
             // TODO: Write an SQL statement to insert a new player into a table
-            String sql = "";
+            
+            String sql = "insert into player(id, name, position, team) " + "values(?,?,?, (select idpk from team where name = ? ))";
+            
             PreparedStatement statement_prepared = db_connection.prepareStatement(sql);
             // TODO: match parameters of the SQL statement and player id, name, position
+            statement_prepared.setString(1, player.getId());
+            statement_prepared.setString(2, player.getName());
+            statement_prepared.setString(3, player.getPosition());
+            statement_prepared.setString(4, player.getTeam());
+    
+
+            
             statement_prepared.executeUpdate();
         }
         db_connection.commit();

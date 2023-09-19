@@ -211,9 +211,12 @@ public class SQLiteExample {
 
     public void insertTeam(Connection db_connection, Team team) throws SQLException {
         Statement statement = db_connection.createStatement();
+        
         ResultSet results = statement.executeQuery("SELECT city_id_pk FROM cities WHERE cities.city_name = '"
                 + team.getCity() + "' AND cities.city_state = '" + team.getState() + "';");
         int city_id = results.getInt(1);
+
+
         // System.out.printf("Adding a new record to the table *teams*.%n");
         String sql = "INSERT INTO teams(team_name, team_conference, team_division, team_arena, city_id) VALUES(?, ?, ?, ?, ?)";
         PreparedStatement statement_prepared = db_connection.prepareStatement(sql);

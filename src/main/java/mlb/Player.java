@@ -61,6 +61,6 @@ public class Player {
     @Override
     public String toString() {
         // TODO Implement this method
-        throw new NotImplementedException();
+        return name + " plays for " + team;
     }
 }

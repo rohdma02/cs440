@@ -146,6 +146,6 @@ public class Team {
     @Override
     public String toString() {
         // TODO Implement this method
-        throw new NotImplementedException();
+        return name + "\n" + conference + " | " + division + "\n" + address + "\n" + "Roster size: " + roster.size();
     }
 }
