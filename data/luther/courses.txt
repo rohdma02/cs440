@@ -1,0 +1,798 @@
+BIO
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+BIO-115-A Human Anatomy B.Solberg,K.Agena 4 P09 TR 11:00 AM 12:30 PM LECT 114 100 -14 VALD 206 
+BIO-115L-01 Human Anatomy Lab B.Solberg,M.Eichinger 0 P03,P04 M 11:00 AM 1:15 PM LAB 21 20 -1 SAMP 153 
+BIO-115L-02 Human Anatomy Lab B.Solberg,M.Eichinger 0 P05,P06 M 1:30 PM 3:45 PM LAB 24 20 -4 SAMP 153 
+BIO-115L-03 Human Anatomy Lab B.Solberg 0 P07 M 7:00 PM 9:15 PM LAB 25  1 20 -5 SAMP 153 
+BIO-115L-04 Human Anatomy Lab B.Solberg 0 P03,P04 W 11:00 AM 1:15 PM LAB 24 20 -4 SAMP 153 
+BIO-115L-05 Human Anatomy Lab B.Solberg 0 P05,P06 W 1:30 PM 3:45 PM LAB 20  -1 20 0 SAMP 153 
+BIO-151-A Prin Bio:Eco/Evol/Biodiv K.Larsen 4 P02 MWF 9:15 AM 10:15 AM LECT 36 36 0 OLIN 102 
+BIO-151-B Prin Bio:Eco/Evol/Biodiv E.Baack 4 P03 MWF 11:00 AM 12:00 PM LECT 32 36 4 OLIN 102 
+BIO-151-C Prin Bio:Eco/Evol/Biodiv D.Reding 4 P03 MWF 11:00 AM 12:00 PM LECT 32 36 4 VALD 362 
+BIO-151L-01 Prin Bio Lab:Eco/Evol/Bio E.Lynch 0 P05,P06 M 1:30 PM 3:30 PM LAB 16 18 2 SAMP 274 
+BIO-151L-02 Prin Bio Lab:Eco/Evol/Bio E.Lynch 0 P10,P11 T 1:30 PM 3:30 PM LAB 17 18 1 SAMP 274 
+BIO-151L-03 Prin Bio Lab:Eco/Evol/Bio D.Reding 0 P05,P06 W 1:30 PM 3:30 PM LAB 16 18 2 SAMP 274 
+BIO-151L-04 Prin Bio Lab:Eco/Evol/Bio E.Baack 0 P08 R 7:30 AM 9:30 AM LAB 18 18 0 SAMP 274 
+BIO-151L-05 Prin Bio Lab:Eco/Evol/Bio E.Baack 0 P09,P10 R 11:00 AM 1:00 PM LAB 17 18 1 SAMP 274 
+BIO-151L-06 Prin Bio Lab:Eco/Evol/Bio D.Reding 0 P10,P11 R 1:30 PM 3:30 PM LAB 16  -1 18 2 SAMP 274 
+BIO-190-A Clinical Microbiology G.Strand 4 P03 MWF 11:00 AM 12:00 PM LECT 35 40 5 VALD 206 
+BIO-190L-01 Clin Microbio Lab G.Strand 0 P09,P10 T 11:00 AM 1:00 PM LAB 15 20 5 SAMP 256 
+BIO-190L-02 Clin Microbio Lab G.Strand 0 P10,P11 T 1:30 PM 3:30 PM LAB 20 20 0 SAMP 256 
+BIO-243-A Microbiology J.Enos-Berlage 4 P03 MW 11:00 AM 12:00 PM LECT 18 18 0 VALD 375 
+BIO-243L-01 Microbiology Lab J.Enos-Berlage 0 P05,P06 MW 1:30 PM 3:30 PM LAB 18 18 0 SAMP 256 
+BIO-251-A Entomology K.Larsen 4 P05 MWF 1:30 PM 2:30 PM LECT 13 18 5 SAMP 132 
+BIO-251L-01 Entomology Lab K.Larsen 0 P06 MWF 2:45 PM 3:45 PM LAB 13 18 5 SAMP 132 
+BIO-255-A Human Physiology S.Carlson 4 P01 MWF 8:00 AM 9:00 AM LECT 27 54 27 OLIN 102 
+BIO-255L-01 Human Physiology Lab S.Carlson 0 P10,P11 T 12:45 PM 3:00 PM LAB 8 18 10 SAMP 155 
+BIO-255L-02 Human Physiology Lab S.Carlson 0 P09,P10 R 11:00 AM 1:15 PM LAB 16 18 2 SAMP 155 
+BIO-255L-03 Human Physiology Lab S.Carlson 0 P10,P11 R 1:30 PM 3:45 PM LAB 3 18 15 SAMP 155 
+BIO-256-A Biostatistics E.Baack 4 P02 MWF 9:15 AM 10:15 AM LECT 20 36 16 OLIN 213 
+BIO-256L-01 Biostatistics Lab E.Baack 0 P07 M 6:30 PM 9:00 PM LAB 7 18 11 OLIN 213 
+BIO-256L-02 Biostatistics Lab E.Baack 0 P10,P11 T 12:45 PM 3:15 PM LAB 13 18 5 OLIN 113 
+BIO-301-A Human Dissection & Anatom S.Fretham 4 P08 TR 8:00 AM 9:30 AM LECT 17 12 -5 VALD 362 
+BIO-301L-01 Human Dissection & Anat L S.Fretham 0 P10,P11 T 12:45 PM 3:45 PM LAB 10 4 -6 SAMP 153 
+BIO-301L-02 Human Dissection & Anat L S.Fretham 0 P10,P11 R 12:45 PM 3:45 PM LAB 7 4 -3 SAMP 153 
+BIO-364-A Cell Biology B.Hiester 4 P03 MWF 11:00 AM 12:00 PM LECT 12 18 6 VALD 262 
+BIO-364L-A Cell Biology Lab B.Hiester 0 P10,P11 R 12:45 PM 3:45 PM LAB 12 18 6 SAMP 273 
+BIO-365-A Ecology E.Lynch 4 P09 TR 11:00 AM 12:30 PM LECT 12 18 6 SAMP 135 
+BIO-365L-01 Ecology Lab E.Lynch 0 P09,P10,P11 R 12:30 PM 3:30 PM LAB 12 18 6 SAMP 135 
+BIO-367-A Endocrinology M.Eichinger 4 P01 MWF 8:00 AM 9:00 AM LECT 6 18 12 VALD 371 
+BIO-367L-01 Endocrinology Lab M.Eichinger 0 P04,P05,P06 W 12:15 PM 3:15 PM LAB 6 18 12 SAMP 175 
+BIO-380-C Internship J.Enos-Berlage 1-8 ukn  INTRN 2 999 997 ARR ARR 
+BIO-389-A Directed Research B.Hiester 1-4 ukn  INDEP 1 999 998 ARR ARR 
+BIO-389-A Directed Research D.Reding 1-4 ukn  INDEP 1 999 998 ARR ARR 
+BIO-389-B Directed Research D.Reding 1-4 ukn  INDEP 1 999 998 ARR ARR 
+BIO-487-A Biology Colloquium M.Eichinger 0 ukn R 9:40 AM 10:40 AM INDEP 0 999 999  
+BIO-490-A Senior Project B.Hiester 2 P07 M 7:30 PM 9:00 PM INDEP 9 12 3 VALD 369 
+BIO-493-A Senior Honors Project B.Hiester 0 ukn  INDEP 1 999 998 ARR ARR 
+CHEM
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+CHEM-141-A Essentials of Chemistry J.Baldwin 4 P02 MWF 9:15 AM 10:15 AM LECT 35 40 5 OLIN 104 
+CHEM-141L-01 Essentials of Chemistry L J.Baldwin 0 P09 R 11:00 AM 12:30 PM LAB 17 20 3 SAMP 233 
+CHEM-141L-02 Essentials of Chemistry L J.Baldwin 0 P11 R 2:30 PM 4:00 PM LAB 18 20 2 SAMP 233 
+CHEM-151-A Chemical Principles I C.Mertzenich 4 P02 MWF 9:15 AM 10:15 AM LECT 33 36 3 VALD 367 
+CHEM-151-B Chemical Principles I M.Wilker 4 P06 MWF 2:45 PM 3:45 PM LECT 21 36 15 VALD 367 
+CHEM-151L-01 Chemical Principles I Lab C.Mertzenich 0 P09,P10 T 11:15 AM 1:15 PM LAB 16 18 2 SAMP 372 
+CHEM-151L-02 Chemical Principles I Lab C.Mertzenich 0 P10,P11 T 1:45 PM 3:45 PM LAB 16 18 2 SAMP 372 
+CHEM-151L-03 Chemical Principles I Lab C.Mertzenich 0 P08 R 7:30 AM 9:30 AM LAB 15 18 3 SAMP 372 
+CHEM-151L-04 Chemical Principles I Lab C.Mertzenich 0 P10,P11 R 1:45 PM 3:45 PM LAB 7 18 11 SAMP 372 
+CHEM-201-A Advanced Chemical Princip O.Michels 4 P01 MWF 8:00 AM 9:00 AM LECT 16 20 4 VALD 262 
+CHEM-201L-01 Advanced Chemical Prin La J.Baldwin 0 P09,P10 T 11:15 AM 2:15 PM LAB 16 20 4 SAMP 331 
+CHEM-241-A Organic Chemistry I O.Michels 4 P04 MWF 12:15 PM 1:15 PM LECT 29 36 7 VALD 262 
+CHEM-241L-01 Organic Chem I Lab O.Michels 0 P09,P10 T 11:00 AM 2:00 PM LAB 17 16 -1 SAMP 357 
+CHEM-241L-02 Organic Chem I Lab O.Michels 0 P11 T 2:30 PM 5:30 PM LAB 12 16 4 SAMP 357 
+CHEM-345-A Separations J.Baldwin 2 P08 TR 8:00 AM 9:30 AM LEC1 15 25 10 VALD 367 
+CHEM-361-A Physical Chemistry M.Wilker 4 P03 MWF 11:00 AM 12:00 PM LECT 11 14 3 VALD 369 
+COMS
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+COMS-132-A Public Address D.Sweet 4 P06 MWF 2:45 PM 3:45 PM LECT 25 25 0 MAIN 116B 
+COMS-133-A Media Literacy T.Johnson 4 P01 MWF 8:00 AM 9:00 AM LECT 25 25 0 MAIN 116B 
+COMS-233-A Rhetoric of Spirituality D.Sweet 4 P05 MWF 1:30 PM 2:30 PM LECT 25 25 0 MAIN 116B 
+COMS-258-A Video Production T.Johnson 4 P02 MWF 9:15 AM 10:15 AM LECT 18 18 0 PREU 100 
+COMS-356-A Rhetorical Criticism D.Sweet 4 P03 MWF 11:00 AM 12:00 PM LECT 12 25 13 MAIN 116B 
+COMS-380-A Internship D.Sweet 1-4 ukn  INTRN 1 999 998 ARR ARR 
+COMS-490-A Senior Project D.Sweet,T.Johnson 2 ukn  INDEP 6 999 993 ARR ARR 
+JOUR-100-A News Practicum A.Lurth, et al. 0 ukn  PRAC 0 999 999 ARR ARR 
+CS
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+CS-130-A Fund of Web Programming A.Khalili 2 P05 MWF 1:30 PM 2:30 PM LEC1 24  1 25 1 OLIN 202 
+CS-130-B Fund of Web Programming A.Khalili 2 P06 MWF 2:45 PM 3:45 PM LEC2 14  1 25 11 OLIN 202 
+CS-140-A Data Modeling and Queryin P.Mattson 2 P05 MWF 1:30 PM 2:30 PM LEC2 25 25 0 OLIN 202 
+CS-150-A Intro to Computer Science P.Mattson 4 P02 MWF 9:15 AM 10:15 AM LECT 15 25 10 OLIN 202 
+CS-150-B Intro to Computer Science P.Mattson 4 P04 MWF 12:15 PM 1:15 PM LECT 23 25 2 OLIN 202 
+CS-150-C Intro to Computer Science A.Zaring 4 P03 MWF 11:00 AM 12:00 PM LECT 16 25 9 OLIN 202 
+CS-160-A Algorithms and Data Struc R.Yasinovskyy 4 P02 MWF 9:15 AM 10:15 AM LECT 14 25 11 OLIN 112 
+CS-252-A Object-Oriented Prog With A.Zaring 4 P08 TR 8:00 AM 9:30 AM LECT 13 25 12 OLIN 202 
+CS-296-A Writing in the Major Lab R.Yasinovskyy 1 ukn  LEC2 1 999 998 ARR ARR 
+CS-296-B Writing in the Major Lab T.Do 1 ukn  LEC2 0 999 999 ARR ARR 
+CS-296-C Writing in the Major Lab A.Zaring 1 ukn  LEC2 2 999 997 ARR ARR 
+CS-296-D Writing in the Major Lab R.Yasinovskyy 1 ukn  LECT 1 1 0 ARR ARR 
+CS-330-A Internet Programming R.Yasinovskyy 4 P09 TR 11:00 AM 12:30 PM LECT 16 25 9 OLIN 202 
+CS-360-A Adv Algorithms and Data S A.Zaring 4 P01 MWF 8:00 AM 9:00 AM LECT 15 25 10 OLIN 112 
+CS-360-B Adv Algorithms and Data S R.Yasinovskyy 4 ukn  LECT 1 1 0 ARR ARR 
+CS-381-A Internship T.Do 1-8 ukn  INTRN 1 999 998 ARR ARR 
+CS-389-B Directed Research A.Zaring 1-4 ukn  LECT 1 999 998 ARR ARR 
+CS-440-A Database Management Syste R.Yasinovskyy 4 P03 MWF 11:00 AM 12:00 PM LECT 16 25 9 OLIN 112 
+CS-490-A Senior Project P.Mattson 2 P11 TR 2:30 PM 4:00 PM INDEP 6 999 993 OLIN 301 
+CS-492-A Accelerated Senior Projec R.Yasinovskyy 4 ukn  INDEP 3 999 996 ARR ARR 
+DS-120-A Introduction to Data Scie T.Do 4 P02 MWF 9:15 AM 10:15 AM LECT 22  -1 24 2 OLIN 301 
+DS-120-B Introduction to Data Scie T.Do 4 P03 MWF 11:00 AM 12:00 PM LECT 14 24 10 OLIN 301 
+DS-380-A Internship P.Mattson 1-12 ukn  INTRN 3 999 996 ARR ARR 
+DS-420-A Applied Machine Learning T.Do 4 P10 TR 12:45 PM 2:15 PM LECT 19 25 6 OLIN 301 
+DS-490-A Senior Project T.Do 1 ukn  INDEP 1 777 776 ARR ARR 
+EAM
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+ACCTG-120-A Intro Financial Accountin B.Cord 4 P02 MWF 9:15 AM 10:15 AM LECT 26 25 -1 OLIN 207 
+ACCTG-120-B Intro Financial Accountin B.Cord 4 P03 MWF 11:00 AM 12:00 PM LECT 26 25 -1 OLIN 207 
+ACCTG-320-A Business Analytics B.Cord 4 P09 TR 11:00 AM 12:30 PM LECT 17 23  25 2 OLIN 113 MGT-320-A[6]
+ACCTG-353-A Intermediate Accounting I R.Torkelson 4 P05 MWF 1:30 PM 2:30 PM LECT 13 25 12 OLIN 209 
+ACCTG-368-A Fed. Income Tax. R.Torkelson 4 P03 MWF 11:00 AM 12:00 PM LECT 9 25 16 OLIN 206 
+ACCTG-380-A Internship R.Torkelson 1-8 ukn  INTRN 1 999 998 ARR ARR 
+ACCTG-467-A Auditing & Assurance Serv R.Torkelson 4 P08 TR 8:00 AM 9:30 AM LECT 13 25 12 OLIN 209 
+ECON-130-A Principles of Economics R.Larson 4 P08 TR 8:00 AM 9:30 AM LECT 24 25 1 OLIN 107 
+ECON-130-B Principles of Economics R.Larson 4 P09 TR 11:00 AM 12:30 PM LECT 24 25 1 OLIN 107 
+ECON-130-C Principles of Economics D.Lama 4 P10 TR 12:45 PM 2:15 PM LECT 24 25 1 OLIN 208 
+ECON-247-A Intermediate Macroeconomi S.Holland 4 P03 MWF 11:00 AM 12:00 PM LECT 26 25 -1 OLIN 208 
+ECON-261-A Financial System D.Lama 4 P09 TR 11:00 AM 12:30 PM LECT 10 25 15 OLIN 208 
+ECON-268-A Law and Economics S.Holland 4 P05 MWF 1:30 PM 2:30 PM LECT 26 25 -1 OLIN 208 
+ECON-342-A Introduction to Econometr D.Lama 4 P08 TR 8:00 AM 9:30 AM LECT 10 25 15 OLIN 208 
+ECON-395-A Independent Study S.Holland 1-4 ukn  INDEP 1 999 998 ARR ARR 
+MGT-139-A Sp Top:Cnfl Mgt Res(Wash  4 ukn  OTHR 1 1 0 OC OTHC 
+MGT-150-A Statistics G.Patton 4 P05 MWF 1:30 PM 2:30 PM LECT 25 25 0 OLIN 213 
+MGT-240-A Principles of Management H.Yu 4 P01 MWF 8:00 AM 9:00 AM LECT 14 25 11 OLIN 208 
+MGT-240-B Principles of Management H.Yu 4 P02 MWF 9:15 AM 10:15 AM LECT 24 25 1 OLIN 208 
+MGT-240-C Principles of Management A.White 4 ukn  LECT 1 777 776 ARR ARR 
+MGT-250-A Data Ana Bus Dec-Making A.White 4 P09 TR 11:00 AM 12:30 PM LECT 20 25 5 OLIN 213 
+MGT-250-B Data Ana Bus Dec-Making A.White 4 P10 TR 12:45 PM 2:15 PM LECT 13 25 12 OLIN 213 
+MGT-320-A Business Analytics B.Cord 4 P09 TR 11:00 AM 12:30 PM LECT 6 23  25 2 OLIN 113 ACCTG-320-A[17]
+MGT-351-A Principles of Marketing H.Yu 4 P03 MWF 11:00 AM 12:00 PM LECT 20 20 0 OLIN 101 
+MGT-351-B Principles of Marketing R.Larson 4 P04 MWF 12:15 PM 1:15 PM LECT 15 20 5 OLIN 107 
+MGT-352-A Human Resource Management G.Patton 4 P08 TR 8:00 AM 9:30 AM LECT 18 25 7 OLIN 207 
+MGT-353-A Financial Management G.Patton 4 P02 MWF 9:15 AM 10:15 AM LECT 13 25 12 OLIN 101 
+MGT-364-A Sales/Advertising/Promoti R.Larson 4 P10 TR 12:45 PM 2:15 PM LECT 14 15 1 OLIN 101 
+MGT-365-A Investments R.Larson 4 P08 TR 8:00 AM 9:30 AM LECT 12 15 3 OLIN 101 
+MGT-367-A Organizational Behavior G.Patton 4 P09 TR 11:00 AM 12:30 PM LECT 6 15 9 OLIN 207 
+MGT-490-A Senior Project H.Yu 1 P05 M 1:30 PM 2:30 PM INDEP 3 3 0 ARR ARR 
+MGT-490-B Senior Project A.White 1 P06 M 2:45 PM 3:45 PM INDEP 2 3 1 OLIN 351 
+MGT-490-C Senior Project G.Patton 1 P05 W 1:30 PM 2:30 PM INDEP 3 3 0 ARR ARR 
+MGT-490-E Senior Project R.Larson 1 ukn  INDEP 3 3 0 ARR ARR 
+ENG
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+ENG-130-A Lit Vent: Tales of Transf K.Narveson 4 P10 TR 12:45 PM 2:15 PM LECT 8 25 17 MAIN 112 
+ENG-130-A Lit Ventures:Ghost Storie L.Row-Heyveld 4 P03 MWF 11:00 AM 12:00 PM LECT 23 25 2 MAIN 212 
+ENG-211-A Writing for Media J.Jenkins 4 P09 TR 11:00 AM 12:30 PM LECT 20 20 0 MAIN 112 
+ENG-212-A Creat Writ:Poetry & Ficti A.Weldon 4 P10 TR 12:45 PM 2:15 PM LECT 13 20 7 MAIN 116B 
+ENG-230-A How Lit Works:An Intro M.Drews 4 P04 MWF 12:15 PM 1:15 PM LECT 13 20 7 MAIN 113 
+ENG-231-A Film A.Hageman 4 P05 MWF 1:30 PM 2:30 PM LECT 16 25 9 OLIN 112 
+ENG-251-A African-American Literatu N.Whitsitt 4 P02 MWF 9:15 AM 10:15 AM LECT 11 23  25 2 MAIN 213 IDS-251-A[2] AFRS-251-A[10]
+ENG-314-A Rhetoric Hist/Theory/Prac M.Garcia 4 P05 MWF 1:30 PM 2:30 PM LECT 7 20 13 MAIN 113 
+ENG-366-A Victorian & Modernist Lit L.Kildegaard 4 P06 MWF 2:45 PM 3:45 PM LECT 10 25 15 MAIN 112 
+ENG-485-A Sem: William Blake in Th A.Weldon 4 P11 TR 2:30 PM 4:00 PM LECT 9 15 6 MAIN 217 
+ENG-490-A Senior Project K.Narveson 1-2 ukn  INDEP 6 999 993 ARR ARR 
+ENG-493-A Senior Honors Project L.Kildegaard, et al. 0 ukn  INDEP 3 999 996 ARR ARR 
+JOUR-100-A News Practicum A.Lurth, et al. 0 ukn  PRAC 0 999 999 ARR ARR 
+EDUC
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+EDUC-220-A Educational Psychology R.Newhouse 4 P01 MWF 8:00 AM 9:00 AM LECT 19 18 -1 OLIN 206 
+EDUC-221-A Equity & Inclusion C.Martin 4 P03 MWF 11:00 AM 12:00 PM LECT 15 18 3 KORE 120 
+EDUC-221-B Equity & Inclusion C.Martin 4 P02 MWF 9:15 AM 10:15 AM LECT 19 18 -1 KORE 120 
+EDUC-224-A Methods Mus Art PE Well E E.Johnson 4 ukn  LECT 1 777 776 ARR ARR 
+EDUC-240-A Home School Community J.Leet-Otley 2 P11 TR 2:30 PM 4:00 PM LEC1 3 15 12 KORE 120 
+EDUC-242-A Learning Dis/Behavioral I J.Leet-Otley 4 P05 MWF 1:30 PM 2:30 PM LECT 5 15 10 KORE 117 
+EDUC-245-A Career/Vocational Assessm A.Smith 2 P07 M 6:00 PM 7:30 PM LECT 8 15 7 KORE 216 
+EDUC-247-A Classroom Management J.Leet-Otley 2 P11 TR 2:30 PM 4:00 PM LEC2 9 20 11 KORE 120 
+EDUC-252-A Intro Middle/HS 5-12 Meth R.Newhouse 2 ukn  LECT 4 777 773 ARR ARR 
+EDUC-323-A Teach Methods Eng Lang Le L.Roberson 4 P07 M 6:00 PM 9:00 PM LECT 4 10 6 KORE 117 
+EDUC-325-A Elementary Mathematics Me E.Johnson 4 P05 MWF 1:30 PM 2:30 PM LECT 9 20 11 KORE 120 
+EDUC-326-A Elementary Lang Arts Meth B.Bohach 4 P10 TR 12:45 PM 2:15 PM LECT 9 20 11 PREU 120 
+EDUC-352-A Adv Mid/Hs Eng Methods 5- R.Newhouse 2 P08 TR 8:00 AM 9:30 AM LEC2 3 10 7 KORE 216 
+EDUC-352-A Adv Mid/HS Math Methods 5  2 P07 M 6:00 PM 8:00 PM LEC2 0 10 10 KORE 120 
+EDUC-352-A Adv Mid/HS Sci Methods (5 J.Martin-Hiner 2 P07 M 6:00 PM 9:00 PM LEC2 2 10 8 VALD 379 
+EDUC-352-A Adv Mid/HS SocSt Methods R.Newhouse 2 P08 TR 8:00 AM 9:30 AM LEC2 5 10 5 KORE 216 
+EDUC-377-A Cnt Area Liter:Sec/K-12 R.Newhouse 2 P08 TR 8:00 AM 9:30 AM LEC1 10 15 5 KORE 216 
+EDUC-486-A Teaching Practicum E.Johnson 12 ukn  PRAC 15 999 984 ARR ARR 
+EDUC-490-A Senior Project E.Johnson 1 ukn  INDEP 13 999 986 ARR ARR 
+MUED-260-A Brass Methods B.Yates, et al. 2 P05 MWF 1:30 PM 2:30 PM LECT 8 10 2 JENS SPER 
+MUED-265-A Double Reeds Methods H.Armstrong 2 P09 TR 11:00 AM 11:40 AM LECT 9 8 -1 JENS SPER 
+MUED-275-A Flute Clarinet & Sax Meth M.Chesher,C.Hester 2 P03 MWF 11:00 AM 12:00 PM LECT 5 10 5 JENS ORCH 
+MUED-351-A Adv Conducting:Choral A.Last 2 P08 TR 8:00 AM 9:30 AM LECT 12 15 3 JENS CHOIR 
+MUED-353-A Conducting:Instrumental D.Baldwin 2 P08 TR 8:00 AM 9:30 AM LECT 8 12 4 JENS SPER 
+MUED-361-A Clinical Exp. in Mus Educ J.Wilson 2 ukn  LECT 1  1 777 776 ARR ARR 
+MUED-371-A Elem Gen Mus Methods & La J.Wilson 4 P01 MWF 8:00 AM 9:00 AM LECT 15 20 5 CART 217 
+MUED-371L-01 Elem Gen Music Methods La J.Wilson 0 P10 T 12:45 PM 2:15 PM LAB 15 20 5 CART 217 
+MUED-383-A Middle School Choral Meth J.Wilson 2 P03 MWF 11:00 AM 12:00 PM LEC1 18 18 0 JENS CHOIR 
+MUED-384-A Mid & High Sch March Band C.Near 2 P01 MWF 8:00 AM 9:00 AM LEC1 12 20 8 JENS SPER 
+MUED-384-A Mid & High Sch March Band C.Near 2 P07 M 6:30 PM 8:30 PM LEC1 12 20 8 JENS SPER 
+MUED-385-A Mid & High Sch Jazz Mth J.Guzman 2 P03 MWF 11:00 AM 12:00 PM LEC1 6 20 14 JENS SPER 
+MUED-386-A Vocal Pedagogy and Method D.Gover 2 P11 TR 2:30 PM 3:10 PM LECT 13 25 12 JENS 123 
+MUED-387-A High School Choral Method M.Potvin 2 P03 MWF 11:00 AM 12:00 PM LEC2 12 15 3 JENS CHOIR 
+MUED-390-A Mid Sch & H Sch Con Bnd M C.Near 2 P03 MWF 11:00 AM 12:00 PM LEC2 11 20 9 JENS SPER 
+MUED-470-A Music Education Senior Ca J.Guzman 2 P01 MWF 8:00 AM 9:00 AM LEC2 22 30 8 OLIN 207 
+MUED-486-A Teaching Practicum J.Wilson 12 ukn  PRAC 4 999 995 ARR ARR 
+MUED-490-A Senior Project J.Wilson 1 ukn  INDEP 15 15 0 ARR ARR 
+ENVS
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+ENVS-133-A Environmental Conservatio M.McNicoll 4 P10 TR 12:45 PM 2:15 PM LECT 20 20 0 VALD 362 
+ENVS-133L-01 Environmental Cons. Lab M.McNicoll 0 P11 R 2:30 PM 4:30 PM LAB 20 20 0 VALD 379 
+ENVS-175-A Introduction to GIS M.McNicoll,D.Reding 4 P09 TR 11:00 AM 12:30 PM LECT 11 15 4 VALD 377 
+ENVS-250-A Sustainability, Syst & So R.Brummel 4 P03 MWF 11:00 AM 12:00 PM LECT 11 20 9 VALD 379 
+ENVS-250L-01 Sust, Systems, Solutions R.Brummel 0 P07 M 6:00 PM 9:00 PM LAB 11 20 9 VALD 379 
+ENVS-258-A Environmental Politics & R.Brummel 4 P04 MWF 12:15 PM 1:15 PM LECT 25 25 0 VALD 375 
+ENVS-320-A Soils Earth Sys and Envir L.Peterson 4 P04 MWF 12:15 PM 1:15 PM LECT 12 20 8 VALD 384 
+ENVS-320L-01 Soil, Earth Sys & Env Lab L.Peterson 0 P05,P06 W 1:30 PM 4:30 PM LAB 12 20 8 VALD 384 
+ENVS-485-A Sem: Anthropocene Now L.Peterson 4 P10 TR 12:45 PM 2:15 PM SEM 7 12 5 VALD 371 
+ENVS-490-A Senior Project J.Jensen, et al. 1-4 ukn  INDEP 10  1 999 989 ARR ARR 
+ENVS-493-A Senior Honors Project M.McNicoll 0 ukn  LECT 1 999 998 ARR ARR 
+GH
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+GH-101-B Intro to Global Health M.Nading 2 ukn  LECT 1 777 776 ARR ARR 
+GH-201-A Case St in Global Health M.Nading 2 ukn  LECT 1 777 776 ARR ARR 
+GH-380-A Internship S.Carlson 1-8 ukn  INTRN 1 999 998 ARR ARR 
+GH-490-A Senior Project S.Carlson,M.Nading 1 ukn  INDEP 3 5 2 ARR ARR 
+GS
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+GS-100-A Found for Learning and De H.Ludeking,H.Cote 2 P10 TR 1:00 PM 2:00 PM LECT 13 15 2 PREU HOVDE 
+GS-100-B Found for Learning and De H.Ludeking,H.Cote 2 P09 TR 11:00 AM 12:00 PM LECT 6 15 9 PREU HOVDE 
+GS-139-A ST:Global Agenda (Wash Co  4 ukn  OTHR 1 1 0 OC OTHC 
+GS-139-CIC CIC - American Sign Langu  3 ukn  ONL 1 999 998 ARR ARR 
+GS-139-CIC CIC-Elem American Sign La  3 ukn  ONL 1 999 998 ARR ARR 
+GS-382-A Integ Acad Experien Learn  2 ukn  OTHR 3 15 12 ARR ARR 
+HIST
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+HIST-111-A Survey of US History Part M.Guerci 4 P05 MWF 1:30 PM 2:30 PM LECT 20 25 5 KORE 217 
+HIST-126-A Human Geography B.Caton 4 P03 MWF 11:00 AM 12:00 PM LECT 24 24 0 MAIN 112 
+HIST-135-A African-American History M.Guerci 4 P09 TR 11:00 AM 12:30 PM LECT 11 18  18 0 MAIN 111 IDS-135-A[1] AFRS-135-A[6]
+HIST-149-A Europe to 1648 R.Christman 4 P02 MWF 9:15 AM 10:15 AM LECT 24 25 1 KORE 218 
+HIST-171-A History of Africa to 1880 R.Mtisi 4 P10 TR 12:45 PM 2:15 PM LECT 13 23  24 1 KORE 217 IDS-171-A[5] AFRS-171-A[5]
+HIST-248-A The Viking Age: Then and R.Christman,A.Peterson 4 P09 TR 11:00 AM 12:30 PM LECT 21 25 4 LOYA 010 
+HIST-291-A Environmental History R.Mtisi 4 P09 TR 11:00 AM 12:30 PM LECT 28 25 -3 MAIN 116B 
+HIST-292-A History of Medicine B.Caton 4 P10 TR 12:45 PM 2:15 PM LECT 25 25 0 OLIN 112 
+HIST-361-A Top Asian Hist: Amer Asia B.Caton 4 P05 MWF 1:30 PM 2:30 PM LECT 10 25 15 CART 117 
+HIST-380-A Internship A.Peterson 2-8 ukn  INTRN 1 999 998 ARR ARR 
+HIST-485-A Cross-Cult Encou Erly Mod R.Christman 4 P04 MWF 12:15 PM 1:15 PM SEM 7 999 992 CART 117 
+HIST-490-A Senior Project B.Caton, et al. 2 ukn  INDEP 1 999 998 ARR ARR 
+HPE
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+HES-100-B01 Lifetime Hlth & Well B.Solberg,K.Willis 1 P08 R 8:00 AM 9:30 AM SKL1 26 28 2 VALD 206 
+HES-100-B01 Lifetime Hlth & Well B.Solberg,K.Willis 1 P08 T 8:00 AM 9:30 AM SKL1 26 28 2  
+HES-100-B02 Lifetime Hlth & Well B.Solberg,D.McDaniel 1 P08 R 8:00 AM 9:30 AM SKL1 28 28 0 VALD 206 
+HES-100-B02 Lifetime Hlth & Well B.Solberg,D.McDaniel 1 P08 T 8:00 AM 9:30 AM SKL1 28 28 0  
+HES-100-B03 Lifetime Hlth & Well B.Solberg,E.Matth 1 P08 R 8:00 AM 9:30 AM SKL1 27 28 1 VALD 206 
+HES-100-B03 Lifetime Hlth & Well B.Solberg,E.Matth 1 P08 T 8:00 AM 9:30 AM SKL1 27 28 1  
+HES-100-B05 Lifetime Hlth & Well B.Solberg,D.Springer-Doescher 1 P10 R 12:45 PM 2:15 PM SKL1 23  -1 28 5 VALD 206 
+HES-100-B05 Lifetime Hlth & Well B.Solberg,D.Springer-Doescher 1 P10 T 12:45 PM 2:15 PM SKL1 23 28 5  
+HES-100-B06 Lifetime Hlth & Well B.Solberg,J.Androus 1 P10 R 12:45 PM 2:15 PM SKL1 26 28 2 VALD 206 
+HES-100-B06 Lifetime Hlth & Well B.Solberg,J.Androus 1 P10 T 12:45 PM 2:15 PM SKL1 26 28 2  
+HES-100-C01 Lifetime Hlth & Well B.Solberg,D.Springer-Doescher 1 P08 R 8:00 AM 9:30 AM SKL2 22 28 6 VALD 206 
+HES-100-C01 Lifetime Hlth & Well B.Solberg,D.Springer-Doescher 1 P08 T 8:00 AM 9:30 AM SKL2 22 28 6  
+HES-100-C04 Lifetime Hlth & Well B.Solberg,A.Strand 1 P10 R 12:45 PM 2:15 PM SKL2 24 28 4 VALD 206 
+HES-100-C04 Lifetime Hlth & Well B.Solberg,A.Strand 1 P10 T 12:45 PM 2:15 PM SKL2 24 28 4  
+HES-110-A Skill: Swimming Fitness A.Zander 1 ukn  LECT 1 777 776 ARR ARR 
+HES-110-B01 Skill: Swimming Fitness A.Zander 1 P01 MWF 8:00 AM 9:00 AM SKL1 19 20 1  
+HES-110-B01 Skill: Trail Running Y.Pasche 1 P09 TR 11:00 AM 12:30 PM SKL1 13 20 7  
+HES-110-C01 Skill: Aerobic Fitness D.Draghi 1 P03 MWF 11:00 AM 12:00 PM SKL2 24 24 0  
+HES-126-A Human Perf Nutr B.Solberg 4 P08 TR 8:00 AM 9:30 AM LECT 59  1 40 -19 OLIN 102 
+HES-260-A Adaptive Phys Act B.Solberg 4 P02 MWF 9:15 AM 10:15 AM LECT 24 60 36 REGE 218 
+HES-285-A Directed Study B.Solberg 1-4 ukn  INDEP 1 999 998 ARR ARR 
+HES-323-A Prin Strength Trng & Cond K.Agena 4 P03 MWF 11:00 AM 12:00 PM LECT 22 30 8 REGE 224 
+HES-343-A Motor Learning K.Agena 4 P02 MWF 9:15 AM 10:15 AM LECT 23 30 7 REGE 224 
+HES-366-A Phys Exer B.Solberg 4 ukn  LECT 2 777 775 ARR ARR 
+HES-372-A Adm Mgmt Hlth & Fit Progr K.Agena 4 ukn  LECT 1 777 776 ARR ARR 
+HES-380-A Internship K.Agena 1-8 ukn  INTRN 5  1 999 994 ARR ARR 
+HES-380-B Internship B.Solberg 1-8 ukn  INTRN 0 999 999 ARR ARR 
+HES-490-A Senior Project B.Solberg,K.Agena 1 ukn  INDEP 11 999 988 ARR ARR 
+HP-101-A Foundation of Health Prom B.Solberg 2 ukn  LECT 1 777 776 ARR ARR 
+HP-255-A Epidemiology Hum Disease B.Solberg 4 ukn  LECT 2 777 775 ARR ARR 
+LS-130-A Found Experiential Leader J.Boeke 2 P08 TR 8:00 AM 9:30 AM LEC2 25 25 0 REGE 305 
+LS-132-A Principles of Team Dynami J.Boeke 2 P10 TR 12:45 PM 2:15 PM LEC2 20 20 0 REGE 305 
+LS-226-A Challenge Crse Prog:Theo& J.Boeke 2 P10 TR 12:45 PM 2:15 PM SKL1 19 20 1 REGE 305 
+LS-381-A Internship J.Boeke 1-8 ukn  INTRN 2 999 997 ARR ARR 
+LS-420-A Prac I: Leadership in Act J.Boeke 1 ukn  PRAC 7 30 23 ARR ARR 
+LS-450-A Pract II: Act Base Res-Le J.Boeke 1 ukn  PRAC 3 30 27 ARR ARR 
+IDS
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+AFRS-135-A African-American History M.Guerci 4 P09 TR 11:00 AM 12:30 PM LECT 6 18  18 0 MAIN 111 IDS-135-A[1] HIST-135-A[11]
+AFRS-171-A History of Africa to 1880 R.Mtisi 4 P10 TR 12:45 PM 2:15 PM LECT 5 23  24 1 KORE 217 HIST-171-A[13] IDS-171-A[5]
+AFRS-251-A African-American Literatu N.Whitsitt 4 P02 MWF 9:15 AM 10:15 AM LECT 10 23  25 2 MAIN 213 IDS-251-A[2] ENG-251-A[11]
+IDS-101-A Systems of Power S.Hurley 4 P04 MWF 12:15 PM 1:15 PM LECT 21 25 4 OCKH 103 
+IDS-135-A African-American History M.Guerci 4 P09 TR 11:00 AM 12:30 PM LECT 1 18  18 0 MAIN 111 AFRS-135-A[6] HIST-135-A[11]
+IDS-140-A Identity & Movement Analy J.Hawley 4 P10 TR 12:45 PM 2:15 PM LECT 4 21  25 4 CART 121 DAN-140-A[17]
+IDS-142-A China in the World H.Yu 4 P11 TR 2:30 PM 4:00 PM LECT 1 5  25 20 MAIN 213 FCUL-142-A[4]
+IDS-171-A History of Africa to 1880 R.Mtisi 4 P10 TR 12:45 PM 2:15 PM LECT 5 23  24 1 KORE 217 HIST-171-A[13] AFRS-171-A[5]
+IDS-233-A God and Gender W.Deifelt 4 P03 MWF 11:00 AM 12:00 PM LECT 4 25  25 0 LOYA 010 REL-233-A[21]
+IDS-251-A African-American Literatu N.Whitsitt 4 P02 MWF 9:15 AM 10:15 AM LECT 2 23  25 2 MAIN 213 ENG-251-A[11] AFRS-251-A[10]
+IDS-255-A Identity & Diversity East G.Kopf 4 P11 TR 2:30 PM 4:00 PM LECT 4 26  25 -1 OCKH 103 REL-255-A[22]
+IDS-305-A Mvmt Fund III:Prac Vocab J.Hawley 4 P06 MWF 3:00 PM 4:45 PM LECT 1 7  15 8 CART 121 DAN-305-A[6]
+IDS-355-A Global Traditions G.Kopf 4 P10 TR 12:45 PM 2:15 PM LECT 6 25 19 OCKH 103 
+IDS-381-A Internship C.Kunkel 1-4 ukn  INTRN 2 999 997 ARR ARR 
+IDS-490-A Senior Project C.Kunkel 1-4 ukn  INDEP 1 999 998 ARR ARR 
+IEDU
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+INTL-375-A Directed Readings O.Selcuk 2-4 ukn  INDEP 1 999 998 ARR ARR 
+INTL-389-A Directed Research V.Christman 1-4 ukn  INDEP 1 999 998 ARR ARR 
+INTL-485-A International Studies Sem O.Selcuk 4 P07 M 6:00 PM 9:00 PM SEM 6 15 9 OLIN 201 
+INTL-490-A Senior Project O.Selcuk 1 ukn  INDEP 1 999 998 ARR ARR 
+LV
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+LV-250-A Law and Justice S.Holland 4 P02 MWF 9:15 AM 10:15 AM LECT 19 25 6 VALD 375 
+MATH
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+MATH-100-A Algebra for Science&Busin M.Johnson 2 P05 MWF 1:30 PM 2:30 PM LEC2 16 16 0 OLIN 105 
+MATH-100-A Algebra for Science&Busin M.Johnson 2 P05 MWF 1:30 PM 2:30 PM LEC2 16 16 0 OLIN 106 
+MATH-115-A Introduction to Statistic D.Mitchell 4 P01 MWF 8:00 AM 9:00 AM LECT 23 24 1 OLIN 113 
+MATH-115-B Introduction to Statistic D.Mitchell 4 P03 MWF 11:00 AM 12:00 PM LECT 24 24 0 OLIN 113 
+MATH-115-C Introduction to Statistic P.Iversen 4 P06 MWF 2:45 PM 3:45 PM LECT 11  1 24 13 OLIN 113 
+MATH-123-A Math for the Elem Teacher E.Johnson 4 P04 MWF 12:15 PM 1:15 PM LECT 10 25 15 OLIN 209 
+MATH-140-A Limits and Derivatives E.Westlund 4 P01 MWF 8:00 AM 9:00 AM LECT 21 22 1 OLIN 108 
+MATH-140-B Limits and Derivatives E.Westlund 4 P03 MWF 11:00 AM 12:00 PM LECT 20 22 2 OLIN 108 
+MATH-140-C Limits and Derivatives R.Berger 4 P04 MWF 12:15 PM 1:15 PM LECT 10 22 12 OLIN 206 
+MATH-140-D Limits and Derivatives R.Berger 4 P05 MWF 1:30 PM 2:30 PM LECT 7 22 15 OLIN 206 
+MATH-150-A Calculus in Context T.Occhipinti 4 P04 MWF 12:15 PM 1:15 PM LECT 14 22 8 OLIN 108 
+MATH-150-B Calculus in Context E.Westlund 4 P05 MWF 1:30 PM 2:30 PM LECT 12 22 10 OLIN 108 
+MATH-150-C Calculus in Context T.Occhipinti 4 P02 MWF 9:15 AM 10:15 AM LECT 19 22 3 OLIN 108 
+MATH-152-A Calculus II M.Johnson 4 P02 MWF 9:15 AM 10:15 AM LECT 16 24 8 OLIN 106 
+MATH-215-A Data Analysis P.Iversen 4 P02 MWF 9:15 AM 10:15 AM LECT 12 24 12 MAIN 111 
+MATH-240-A Linear Algebra R.Berger 4 P02 MWF 9:15 AM 10:15 AM LECT 9 25 16 OLIN 206 
+MATH-327-A Applied Stats I P.Iversen 4 P05 MWF 1:30 PM 2:30 PM LECT 7 22 15 OLIN 113 
+MATH-351-A Ordinary Differential Equ M.Johnson 4 P04 MWF 12:15 PM 1:15 PM LECT 11 25 14 OLIN 106 
+MATH-365-A Geometry R.Berger 4 P09 TR 11:00 AM 12:30 PM LECT 2 777 775 OLIN 108 
+MATH-380-A Internship M.Johnson 1-8 ukn  INTRN 1 999 998 ARR ARR 
+MATH-395-A Independent Study M.Johnson 1-4 ukn  INDEP 1 999 998 ARR ARR 
+MATH-471-A Abstract Algebra I T.Occhipinti 4 P05 MWF 1:30 PM 2:30 PM LECT 11 25 14 OLIN 207 
+MATH-490-A Senior Project R.Berger, et al. 1-4 ukn  INDEP 4 20 16 ARR ARR 
+MLLL
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+CHIN-101-A Beginning Chinese H.Yu 4 P03 MWF 11:00 AM 12:00 PM LECT 9 25 16 MAIN 213 
+CHIN-201-A Intermediate Chinese H.Yu 4 ukn  LECT 1 777 776 ARR ARR 
+CHIN-295-A Directed Study H.Yu 1-4 ukn  INDEP 1 999 998 ARR ARR 
+FCUL-142-A China in the World H.Yu 4 P11 TR 2:30 PM 4:00 PM LECT 4 5  25 20 MAIN 213 IDS-142-A[1]
+FCUL-339-A Nordic Fiction and Food M.Johnson 4 P07 M 6:00 PM 9:00 PM LECT 11 24  20 -4 MAIN 112 NORST-339-A[13]
+FREN-101-A Elementary French I A.Feat 4 P05 MWF 1:30 PM 2:30 PM LECT 16 24 8 MAIN 213 
+FREN-101-B Elementary French I A.Feat 4 P06 MWF 2:45 PM 3:45 PM LECT 10 25 15 MAIN 213 
+FREN-203-A Written Expression A.Feat 4 P04 MWF 12:15 PM 1:15 PM LECT 11 25 14 MAIN 213 
+FREN-490-A Senior Project A.Feat 1 ukn  INDEP 0 999 999 ARR ARR 
+GER-101-A Identity and Language A.Steding 4 P02 MWF 9:15 AM 10:15 AM LECT 16 25 9 MAIN 214 
+GER-102-A Community and Language A.Steding 4 P01 MWF 8:00 AM 9:00 AM LECT 17 25 8 MAIN 214 
+GER-105-A Munster Preparation A.Steding 1 P08 T 8:30 AM 9:30 AM LECT 5 12 7 MAIN 214 
+GER-210-A Ger Act:Welcome to DACH E.Steding 4 P03 MWF 11:00 AM 12:00 PM LECT 11 25 14 MAIN 214 
+GER-375-A Directed Readings A.Steding 1-4 ukn  INDEP 4 999 995 ARR ARR 
+SPAN-101-A Elementary Spanish I D.Thompson 4 P01 MWF 8:00 AM 9:00 AM LECT 26 25 -1 MAIN 212 
+SPAN-102-A Elementary Spanish II A.Alonso Estenoz 4 P02 MWF 9:15 AM 10:15 AM LECT 23 25 2 MAIN 218 
+SPAN-102-C Elementary Spanish II A.Alonso Estenoz 4 P05 MWF 1:30 PM 2:30 PM LECT 15 25 10 MAIN 214 
+SPAN-201-A Intermediate Spanish R.Tejada 4 P02 MWF 9:15 AM 10:15 AM LECT 13 25 12 MAIN 212 
+SPAN-201-B Intermediate Spanish R.Tejada 4 P04 MWF 12:15 PM 1:15 PM LECT 11 25 14 MAIN 212 
+SPAN-201-C Intermediate Spanish R.Tejada 4 P05 MWF 1:30 PM 2:30 PM LECT 14 25 11 MAIN 212 
+SPAN-220-A Spanish for Heritage Lear N.Gates Madsen 4 P10 TR 12:45 PM 2:15 PM LECT 7 25 18 MAIN 213 
+SPAN-302-A Effective Speaking in Spa N.Gates Madsen 4 P04 MWF 12:15 PM 1:15 PM LECT 18 18 0 MAIN 214 
+SPAN-303-A Effective Writing R.Tejada 4 P10 TR 12:45 PM 2:15 PM LECT 12 20 8 MAIN 212 
+SPAN-339-A ST:Spanish Workshop D.Thompson 2 P07 M 6:00 PM 9:00 PM LEC1 11 20 9 MAIN 213 
+SPAN-346-A Exploring Hispanic A.Alonso Estenoz 4 P10 TR 12:45 PM 2:15 PM LECT 10 20 10 MAIN 217 
+SPAN-490-A Senior Project R.Tejada, et al. 1 ukn  INDEP 0 5 5 ARR ARR 
+MUS
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+MUED-260-A Brass Methods B.Yates, et al. 2 P05 MWF 1:30 PM 2:30 PM LECT 8 10 2 JENS SPER 
+MUED-265-A Double Reeds Methods H.Armstrong 2 P09 TR 11:00 AM 11:40 AM LECT 9 8 -1 JENS SPER 
+MUED-275-A Flute Clarinet & Sax Meth M.Chesher,C.Hester 2 P03 MWF 11:00 AM 12:00 PM LECT 5 10 5 JENS ORCH 
+MUED-351-A Adv Conducting:Choral A.Last 2 P08 TR 8:00 AM 9:30 AM LECT 12 15 3 JENS CHOIR 
+MUED-353-A Conducting:Instrumental D.Baldwin 2 P08 TR 8:00 AM 9:30 AM LECT 8 12 4 JENS SPER 
+MUED-361-A Clinical Exp. in Mus Educ J.Wilson 2 ukn  LECT 1  1 777 776 ARR ARR 
+MUED-371-A Elem Gen Mus Methods & La J.Wilson 4 P01 MWF 8:00 AM 9:00 AM LECT 15 20 5 CART 217 
+MUED-371L-01 Elem Gen Music Methods La J.Wilson 0 P10 T 12:45 PM 2:15 PM LAB 15 20 5 CART 217 
+MUED-383-A Middle School Choral Meth J.Wilson 2 P03 MWF 11:00 AM 12:00 PM LEC1 18 18 0 JENS CHOIR 
+MUED-384-A Mid & High Sch March Band C.Near 2 P01 MWF 8:00 AM 9:00 AM LEC1 12 20 8 JENS SPER 
+MUED-384-A Mid & High Sch March Band C.Near 2 P07 M 6:30 PM 8:30 PM LEC1 12 20 8 JENS SPER 
+MUED-385-A Mid & High Sch Jazz Mth J.Guzman 2 P03 MWF 11:00 AM 12:00 PM LEC1 6 20 14 JENS SPER 
+MUED-386-A Vocal Pedagogy and Method D.Gover 2 P11 TR 2:30 PM 3:10 PM LECT 13 25 12 JENS 123 
+MUED-387-A High School Choral Method M.Potvin 2 P03 MWF 11:00 AM 12:00 PM LEC2 12 15 3 JENS CHOIR 
+MUED-390-A Mid Sch & H Sch Con Bnd M C.Near 2 P03 MWF 11:00 AM 12:00 PM LEC2 11 20 9 JENS SPER 
+MUED-470-A Music Education Senior Ca J.Guzman 2 P01 MWF 8:00 AM 9:00 AM LEC2 22 30 8 OLIN 207 
+MUED-486-A Teaching Practicum J.Wilson 12 ukn  PRAC 4 999 995 ARR ARR 
+MUED-490-A Senior Project J.Wilson 1 ukn  INDEP 15 15 0 ARR ARR 
+MUS-105-A Class Instruction: Trumpe J.Cord 1 ukn  PRIV 0 25 25 ARR ARR 
+MUS-115-A Class Instruction: Piano C.Hester 1 P08 TR 8:00 AM 8:40 AM PRIV 9 12 3 JENS 174 
+MUS-115-A Class Instruction: Voice B.Westlund,J.Phillips 1 P11 TR 2:30 PM 3:10 PM PRIV 10 12 2 JENS CHOIR 
+MUS-115-B Class Instruction: Piano X.Hu 1 P11 TR 2:30 PM 3:10 PM PRIV 5 12 7 JENS 174 
+MUS-116-A Class Instruction: Piano D.Huang 1 P09 TR 11:00 AM 11:40 AM PRIV 11 12 1 JENS 174 
+MUS-116-B Class Instruction: Piano X.Hu 1 P11 TR 3:20 PM 4:00 PM PRIV 4 12 8 JENS 174 
+MUS-117-A Class Instruction: Piano D.Huang 1 P08 TR 8:50 AM 9:30 AM PRIV 12 12 0 JENS 174 
+MUS-117-B Class Instruction: Piano D.Huang 1 P09 TR 11:50 AM 12:30 PM PRIV 12 12 0 JENS 174 
+MUS-118-A Prep for Piano Proficency D.Huang 0 ukn  PRIV 4 999 995 ARR ARR 
+MUS-120-A Intro to Music in Societi B.Menghini 4 P08 TR 8:00 AM 9:30 AM LECT 16 22 6 JENS ORCH 
+MUS-121-A Theory I A.Meszler 3 P01 MWF 8:00 AM 9:00 AM LECT 23 24 1 JENS CHOIR 
+MUS-121-C Theory I A.Tam 3 P03 MWF 11:00 AM 12:00 PM LECT 25 24 -1 JENS 123 
+MUS-121L-A Ear Training I A.Meszler 1 P08 TR 8:00 AM 8:40 AM LECT 18 17 -1 JENS 123 
+MUS-121L-B Ear Training I A.Meszler 1 P09 TR 11:00 AM 11:40 AM LECT 15 17 2 JENS 123 
+MUS-121L-C Ear Training I A.Meszler 1 P09 TR 11:50 AM 12:30 PM LECT 15 17 2 JENS 123 
+MUS-130-A Applied Music-Bassoon E.Plehal 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-130-A Applied Music-Cello K.Clopton 1-2 ukn  PRIV 16 999 983 ARR ARR 
+MUS-130-A Applied Music-Clarinet M.Chesher,L.Postudensek Hart 1-2 ukn  PRIV 9 999 990 ARR ARR 
+MUS-130-A Applied Music-Double Bass A.Beckendorf 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-130-A Applied Music-Euphonium B.Yates 1-2 ukn  PRIV 4 999 995 ARR ARR 
+MUS-130-A Applied Music-Flute C.Hester 1-2 ukn  PRIV 17 999 982 ARR ARR 
+MUS-130-A Applied Music-French Horn R.Shaffer 1-2 ukn  PRIV 6 999 993 ARR ARR 
+MUS-130-A Applied Music-Guitar M.James 1-2 ukn  PRIV 4 999 995 ARR ARR 
+MUS-130-A Applied Music-Harp A.Nam 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-130-A Applied Music-Harpsichord K.Reed 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-130-A Applied Music-Jazz Improv L.Postudensek Hart 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-130-A Applied Music-Oboe H.Armstrong 1-2 ukn  PRIV 7 999 992 ARR ARR 
+MUS-130-A Applied Music-Organ A.Meszler 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-130-A Applied Music-Percussion R.Frost 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-130-A Applied Music-Piano D.Huang, et al. 1-2 ukn  PRIV 19 999 980 ARR ARR 
+MUS-130-A Applied Music-Saxophone M.Chesher,L.Postudensek Hart 1-2 ukn  PRIV 10 999 989 ARR ARR 
+MUS-130-A Applied Music-Trombone B.Yates 1-2 ukn  PRIV 11 999 988 ARR ARR 
+MUS-130-A Applied Music-Trumpet J.Cord,A.Sanders 1-2 ukn  PRIV 12 999 987 ARR ARR 
+MUS-130-A Applied Music-Tuba B.Yates 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-130-A Applied Music-Viola B.Menghini 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-130-A Applied Music-Violin A.Kromholz,B.Menghini 1-2 ukn  PRIV 19 999 980 ARR ARR 
+MUS-130-A Applied Music-Voice B.Westlund 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-130-B Applied Music-Voice H.Andereck,B.Westlund 1-2 ukn  PRIV 8 999 991 ARR ARR 
+MUS-130-C Applied Music-Voice B.Westlund,C.Kreuscher 1-2 ukn  PRIV 16 999 983 ARR ARR 
+MUS-130-D Applied Music-Voice B.Westlund,K.Muzzio 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-130-E Applied Music-Voice B.Westlund,L.Rothrock 1-2 ukn  PRIV 6 999 993 ARR ARR 
+MUS-130-F Applied Music-Voice B.Westlund,D.Gover 1-2 ukn  PRIV 12 999 987 ARR ARR 
+MUS-130-G Applied Music-Voice B.Westlund,J.Webb 1-2 ukn  PRIV 33 999 966 ARR ARR 
+MUS-130-I Applied Music-Voice B.Westlund,J.Phillips 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-130-J Applied Music-Voice B.Westlund,J.Struve 1-2 ukn  PRIV 7 999 992 ARR ARR 
+MUS-130-L Applied Music-Voice B.Westlund,R.Storlie 1-2 ukn  PRIV 5 999 994 ARR ARR 
+MUS-130-N Applied Music-Voice B.Westlund 1-2 ukn  PRIV 8 999 991 ARR ARR 
+MUS-130-O Applied Music-Voice B.Westlund,C.Hanson 1-2 ukn  PRIV 12 999 987 ARR ARR 
+MUS-130-P Applied Music-Voice B.Westlund,J.Phillips 1-2 ukn  PRIV 9 999 990 ARR ARR 
+MUS-131-A Honors Theory I M.Kominami 3 P02 MWF 9:15 AM 10:15 AM LECT 17 16 -1 JENS 123 
+MUS-131L-A Honors Ear Training I J.Wilson 1 P08 TR 8:00 AM 8:40 AM LECT 16 16 0 CART 217 
+MUS-145-A Orchestral Reper for Harp A.Nam 1 ukn  LECT 3 6 3 ARR ARR 
+MUS-230-A Applied Music-Bassoon E.Plehal 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-230-A Applied Music-Cello K.Clopton 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-230-A Applied Music-Clarinet M.Chesher,L.Postudensek Hart 1-2 ukn  PRIV 6 999 993 ARR ARR 
+MUS-230-A Applied Music-Double Bass A.Beckendorf 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-230-A Applied Music-Euphonium B.Yates 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-230-A Applied Music-Flute C.Hester 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-230-A Applied Music-French Horn R.Shaffer 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-230-A Applied Music-Guitar M.James 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-230-A Applied Music-Harp A.Nam 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-230-A Applied Music-Harpsichord K.Reed 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-230-A Applied Music-Jazz Improv L.Postudensek Hart 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-230-A Applied Music-Oboe H.Armstrong 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-230-A Applied Music-Organ A.Meszler 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-230-A Applied Music-Percussion R.Frost 1-2 ukn  PRIV 5 999 994 ARR ARR 
+MUS-230-A Applied Music-Piano D.Huang, et al. 1-2 ukn  PRIV 11 999 988 ARR ARR 
+MUS-230-A Applied Music-Saxophone M.Chesher,L.Postudensek Hart 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-230-A Applied Music-Trombone B.Yates 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-230-A Applied Music-Trumpet J.Cord,A.Sanders 1-2 ukn  PRIV 8 999 991 ARR ARR 
+MUS-230-A Applied Music-Tuba B.Yates 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-230-A Applied Music-Viola B.Menghini 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-230-A Applied Music-Violin A.Kromholz 1-2 ukn  PRIV 4 999 995 ARR ARR 
+MUS-230-B Applied Music-Voice H.Andereck,B.Westlund 1-2 ukn  PRIV 4 999 995 ARR ARR 
+MUS-230-C Applied Music-Voice B.Westlund,C.Kreuscher 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-230-D Applied Music-Voice B.Westlund,K.Muzzio 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-230-E Applied Music-Voice B.Westlund,L.Rothrock 1-2 ukn  PRIV 4 999 995 ARR ARR 
+MUS-230-F Applied Music-Voice B.Westlund,D.Gover 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-230-G Applied Music-Voice B.Westlund,J.Webb 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-230-I Applied Music-Voice B.Westlund,J.Phillips 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-230-J Applied Music-Voice B.Westlund,J.Struve 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-230-L Applied Music-Voice B.Westlund,R.Storlie 1-2 ukn  PRIV 4 999 995 ARR ARR 
+MUS-230-N Applied Music-Voice B.Westlund 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-230-O Applied Music-Voice B.Westlund,C.Hanson 1-2 ukn  PRIV 5 999 994 ARR ARR 
+MUS-230-P Applied Music-Voice B.Westlund,J.Phillips 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-231-A Theory III W.Joyce 3 P01 MWF 8:00 AM 9:00 AM LECT 22 17 -5 OLIN B1 
+MUS-231-B Theory III W.Joyce 3 P03 MWF 11:00 AM 12:00 PM LECT 18 17 -1 OLIN B1 
+MUS-231L-A Ear Training III M.Kominami 1 P08 TR 8:50 AM 9:30 AM LECT 13 13 0 CART 217 
+MUS-231L-B Ear Training III M.Kominami 1 P09 TR 11:00 AM 11:40 AM LECT 12 13 1 CART 217 
+MUS-231L-C Ear Training III M.Kominami 1 P09 TR 11:50 AM 12:30 PM LECT 13 13 0 CART 217 
+MUS-238-A Composition Workshop A.Nam 1 P07 M 7:00 PM 8:30 PM LECT 7  -1 12 5 JENS 123 
+MUS-244-A Mus Hist I: Med, Ren and M.Batoff 4 P04 MWF 12:15 PM 1:15 PM LECT 20 20 0 JENS CHOIR 
+MUS-244-B Mus Hist I: Med, Ren and M.Batoff 4 P05 MWF 1:30 PM 2:30 PM LECT 18 20 2 JENS ORCH 
+MUS-273-A Chamber Music J.Strauss 1 ukn  LECT 3 999 996 ARR ARR 
+MUS-273-B Chamber Music M.Chesher 1 ukn  LECT 2 999 997 ARR ARR 
+MUS-273-C Chamber Music K.Clopton 1 ukn  LECT 4 999 995 ARR ARR 
+MUS-273-E Chamber Music C.Near 1 ukn  LECT 2 999 997 ARR ARR 
+MUS-273-F Chamber Music B.Menghini 1 ukn  LECT 4 999 995 ARR ARR 
+MUS-273-G Chamber Music R.Shaffer 1 ukn  LECT 4 999 995 ARR ARR 
+MUS-273-H Chamber Music C.Hester 1 ukn  LECT 4 999 995 ARR ARR 
+MUS-273-L Chamber Music J.Cord 1 ukn  LECT 5 999 994 ARR ARR 
+MUS-273-M Chamber Music B.Yates 1 ukn  LECT 0 999 999 ARR ARR 
+MUS-273-P Chamber Music L.Postudensek Hart 1 ukn  LECT 14  1 999 985 ARR ARR 
+MUS-300-A Music Ensemble: Aurora A.Tam 0 P05 MWF 1:30 PM 2:30 PM ENSEM 43  43 999 956  
+MUS-300-A Music Ensemble: Cathedral M.Potvin 0 P06 MWF 2:45 PM 3:45 PM ENSEM 63  63 999 936  
+MUS-300-A Music Ensemble: Chamber O D.Baldwin 0 ukn WF 4:00 PM 5:30 PM ENSEM 29  29 999 970  
+MUS-300-A Music Ensemble: Collegiat A.Tam 0 P06 MWF 2:45 PM 3:45 PM ENSEM 38  38 999 961  
+MUS-300-A Music Ensemble: Concert B C.Near 0 P04 MWF 12:15 PM 1:15 PM ENSEM 51  51 999 948  
+MUS-300-A Music Ensemble: Concert B C.Near 0 ukn T 4:15 PM 5:45 PM ENSEM 51 999 948  
+MUS-300-A Music Ensemble: Jazz Band J.Guzman 0 P10 TR 12:45 PM 2:15 PM ENSEM 17  17 999 982  
+MUS-300-A Music Ensemble: Jazz Orch J.Guzman 0 P11 TR 2:30 PM 3:30 PM ENSEM 18  18 999 981  
+MUS-300-A Music Ensemble: Jazz Orch J.Guzman 0 P06 MWF 2:45 PM 3:45 PM ENSEM 18 999 981  
+MUS-300-A Music Ensemble: Nordic Ch A.Last 0 ukn MWF 4:00 PM 5:00 PM ENSEM 66  66 999 933  
+MUS-300-A Music Ensemble: Nordic Ch A.Last 0 ukn TR 4:15 PM 5:15 PM ENSEM 66 999 933  
+MUS-300-A Music Ensemble: Norskkor M.Potvin 0 P05 MWF 1:30 PM 2:30 PM ENSEM 46  46 999 953  
+MUS-300-A Music Ensemble: Percussio R.Frost 0 ukn U 7:00 PM 9:00 PM ENSEM 10  10 999 989  
+MUS-300-A Music Ensemble: Philharmo B.Menghini 0 ukn MW 4:00 PM 5:00 PM ENSEM 12  12 999 987  
+MUS-300-A Music Ensemble: Philharmo B.Menghini 0 ukn R 4:15 PM 5:15 PM ENSEM 12 999 987  
+MUS-300-A Music Ensemble: Symphonic C.Near 0 P11 TR 2:30 PM 4:00 PM ENSEM 62  62 999 937  
+MUS-300-A Music Ensemble: Symphony D.Baldwin 0 ukn M 4:00 PM 5:30 PM ENSEM 72  72 999 927  
+MUS-300-A Music Ensemble: Symphony D.Baldwin 0 ukn TR 4:15 PM 5:45 PM ENSEM 72 999 927  
+MUS-330-A Applied Music-Bassoon E.Plehal 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-330-A Applied Music-Cello K.Clopton 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-330-A Applied Music-Clarinet M.Chesher,L.Postudensek Hart 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-330-A Applied Music-Double Bass A.Beckendorf 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-330-A Applied Music-Euphonium B.Yates 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-330-A Applied Music-Flute C.Hester 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-330-A Applied Music-French Horn R.Shaffer 1-2 ukn  PRIV 4 999 995 ARR ARR 
+MUS-330-A Applied Music-Guitar M.James 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-330-A Applied Music-Harp A.Nam 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-330-A Applied Music-Harpsichord K.Reed 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-330-A Applied Music-Jazz Improv L.Postudensek Hart 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-330-A Applied Music-Oboe H.Armstrong 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-330-A Applied Music-Organ A.Meszler 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-330-A Applied Music-Percussion R.Frost 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-330-A Applied Music-Piano D.Huang, et al. 1-2 ukn  PRIV 7 999 992 ARR ARR 
+MUS-330-A Applied Music-Saxophone M.Chesher,L.Postudensek Hart 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-330-A Applied Music-Trombone B.Yates 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-330-A Applied Music-Trumpet J.Cord,A.Sanders 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-330-A Applied Music-Tuba B.Yates 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-330-A Applied Music-Viola B.Menghini 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-330-A Applied Music-Violin A.Kromholz 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-330-B Applied Music-Voice H.Andereck,B.Westlund 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-330-C Applied Music-Voice B.Westlund,C.Kreuscher 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-330-D Applied Music-Voice B.Westlund,K.Muzzio 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-330-E Applied Music-Voice B.Westlund,L.Rothrock 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-330-F Applied Music-Voice B.Westlund,D.Gover 1-2 ukn  PRIV 4 999 995 ARR ARR 
+MUS-330-G Applied Music-Voice B.Westlund,J.Webb 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-330-I Applied Music-Voice B.Westlund,J.Phillips 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-330-J Applied Music-Voice B.Westlund,J.Struve 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-330-L Applied Music-Voice B.Westlund,R.Storlie 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-330-N Applied Music-Voice B.Westlund 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-330-O Applied Music-Voice B.Westlund,C.Hanson 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-330-P Applied Music-Voice B.Westlund,J.Phillips 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-338-A Composition: Private Less W.Joyce 1 ukn  LECT 2 12 10 ARR ARR 
+MUS-345-A Mus Hist II: Clas & Rom K.Reed 4 P02 MWF 9:15 AM 10:15 AM LECT 17 25 8 CART 217 
+MUS-346-A Music History III M.Batoff 4 P02 MWF 9:15 AM 10:15 AM LECT 14 20 6 JENS CHOIR 
+MUS-360-A Vocal Coaching N.Shaneyfelt 1-2 ukn  PRIV 20 999 979 ARR ARR 
+MUS-362-A Opera Workshop: Scenes B.Westlund, et al. 1-4 P04 MWF 12:15 PM 1:15 PM LECT 17 25 8 JENS NRH 
+MUS-362-A Opera Workshop: Scenes B.Westlund, et al. 1-4 ukn W 5:45 PM 7:00 PM LECT 17 25 8 JENS NRH 
+MUS-362-A Opera Workshop: Scenes B.Westlund, et al. 1-4 P04 MWF 12:15 PM 1:15 PM LECT 17 25 8 JENS ORCH 
+MUS-362-A Opera Workshop: Scenes B.Westlund, et al. 1-4 ukn W 5:45 PM 7:00 PM LECT 17 25 8 JENS ORCH 
+MUS-371-A Orchestration W.Joyce 2 ukn  LECT 4 12 8 ARR ARR 
+MUS-430-A Applied Music-Bassoon E.Plehal 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-A Applied Music-Cello K.Clopton 1-2 ukn  PRIV 4 999 995 ARR ARR 
+MUS-430-A Applied Music-Clarinet M.Chesher,L.Postudensek Hart 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-A Applied Music-Double Bass A.Beckendorf 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-A Applied Music-Euphonium B.Yates 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-A Applied Music-Flute C.Hester 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-430-A Applied Music-French Horn R.Shaffer 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-A Applied Music-Guitar M.James 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-A Applied Music-Harp A.Nam 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-A Applied Music-Harpsichord K.Reed 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-A Applied Music-Jazz Improv L.Postudensek Hart 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-A Applied Music-Oboe H.Armstrong 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-430-A Applied Music-Organ A.Meszler 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-A Applied Music-Percussion R.Frost 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-430-A Applied Music-Piano D.Huang, et al. 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-430-A Applied Music-Saxophone M.Chesher,L.Postudensek Hart 1-2 ukn  PRIV 3 999 996 ARR ARR 
+MUS-430-A Applied Music-Trombone B.Yates 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-A Applied Music-Trumpet J.Cord,A.Sanders 1-2 ukn  PRIV 6 999 993 ARR ARR 
+MUS-430-A Applied Music-Tuba B.Yates 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-A Applied Music-Viola B.Menghini 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-A Applied Music-Violin A.Kromholz 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-B Applied Music-Voice H.Andereck,B.Westlund 1-2 ukn  PRIV 6 999 993 ARR ARR 
+MUS-430-C Applied Music-Voice B.Westlund,C.Kreuscher 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-D Applied Music-Voice B.Westlund,K.Muzzio 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-E Applied Music-Voice B.Westlund,L.Rothrock 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-F Applied Music-Voice B.Westlund,D.Gover 1-2 ukn  PRIV 5 999 994 ARR ARR 
+MUS-430-G Applied Music-Voice B.Westlund,J.Webb 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-I Applied Music-Voice B.Westlund,J.Phillips 1-2 ukn  PRIV 2 999 997 ARR ARR 
+MUS-430-J Applied Music-Voice B.Westlund,J.Struve 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-L Applied Music-Voice B.Westlund,R.Storlie 1-2 ukn  PRIV 0 999 999 ARR ARR 
+MUS-430-N Applied Music-Voice B.Westlund 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-O Applied Music-Voice B.Westlund,C.Hanson 1-2 ukn  PRIV 1 999 998 ARR ARR 
+MUS-430-P Applied Music-Voice B.Westlund,J.Phillips 1-2 ukn  PRIV 6 999 993 ARR ARR 
+MUS-490-A Senior Project M.Batoff 1 ukn  INDEP 7 999 992 ARR ARR 
+MUS-493-A Senior Honors Project W.Joyce,K.Clopton 0 ukn  INDEP 2 999 997 ARR ARR 
+MUST
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+MUST-120-A Introduction to Museums D.Crider 4 P11 TR 2:30 PM 4:00 PM LECT 15 25 10 OLIN 112 
+MUST-380-A Internship D.Crider 2-4 ukn  INTRN 1 999 998 ARR ARR 
+NEUR
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+NEUR-380-A Internship J.Enos-Berlage 1-8 ukn  INTRN 1 999 998 ARR ARR 
+NEUR-380-B Internship J.Sprung 1-8 ukn  INTRN 1 999 998 ARR ARR 
+NEUR-389-A Directed Study S.Fretham 1-4 ukn  INDEP 1 999 998 ARR ARR 
+NEUR-490-A Senior Project S.Carlson, et al. 1 ukn  INDEP 0 999 999 ARR ARR 
+NEUR-490-A Senior Project S.Carlson, et al. 1 ukn  INDEP 0 999 999 ARR ARR 
+NORST
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+NORST-101-A Elementary Norwegian I E.Galstad 4 P03 MWF 11:00 AM 12:00 PM LECT 25 24 -1 MAIN 217 
+NORST-101-B Elementary Norwegian I E.Galstad 4 P05 MWF 1:30 PM 2:30 PM LECT 25 24 -1 MAIN 217 
+NORST-101-C Elementary Norwegian I E.Galstad 4 P06 MWF 2:45 PM 3:45 PM LECT 24 24 0 MAIN 217 
+NORST-201-A Intermediate Norwegian M.Johnson 4 P02 MWF 9:15 AM 10:15 AM LECT 13 24 11 MAIN 217 
+NORST-339-A Nordic Fiction and Food M.Johnson 4 P07 M 6:00 PM 9:00 PM LECT 13 24  20 -4 MAIN 112 FCUL-339-A[11]
+NORST-375-A Directed Readings M.Johnson 1-4 ukn  LECT 1 777 776 ARR ARR 
+NORST-493-A Senior Honors Project M.Johnson 0 ukn  INDEP 1 999 998 ARR ARR 
+NURS
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+NURS-234-A Pathways to Practice I A.Schlachtenhaufen 2 P01,P02 F 8:30 AM 10:00 AM LECT 18 30 12 OLIN 201 
+NURS-234-B Pathways to Practice I A.Schlachtenhaufen 2 P05,P06 F 1:30 PM 3:00 PM LECT 17 30 13 VALD 345 
+NURS-235-A Pathways to Practice I La B.Meirick 2 P01,P02 M 7:30 AM 10:15 AM LAB 10 10 0 VALD 249 
+NURS-235-B Pathways to Practice I La B.Meirick 2 P04,P05,P06 M 1:00 PM 3:45 PM LAB 8 10 2 VALD 249 
+NURS-235-C Pathways to Practice I La B.Meirick 2 P01,P02 W 7:30 AM 10:15 AM LAB 10 10 0 VALD 249 
+NURS-235-D Pathways to Practice I La A.Schlachtenhaufen 2 P04,P05,P06 W 1:00 PM 3:45 PM LAB 9 10 1 VALD 249 
+NURS-235L-01 Pathways to Practice I La D.Kuennen Dlhy 0 P01,P02 M 7:30 AM 10:15 AM LAB 10 10 0 VALD 245 
+NURS-235L-02 Pathways to Practice I La A.Schlachtenhaufen 0 P04,P05,P06 M 1:00 PM 3:45 PM LAB 9 10 1 VALD 245 
+NURS-235L-03 Pathways to Practice I La D.Kuennen Dlhy 0 P01,P02 W 7:30 AM 10:15 AM LAB 10 10 0 VALD 245 
+NURS-235L-04 Pathways to Practice I La B.Meirick 0 P04,P05,P06 W 1:00 PM 3:45 PM LAB 8 10 2 VALD 245 
+NURS-370-A Health and Healing I I.Williams 2 ukn  LECT 19 24 5 ROCH ROCH 
+NURS-370-B Health and Healing I I.Williams 2 ukn  LECT 14 16 2 ARR ARR 
+NURS-371-A Health and Healing I Clin C.Carlson, et al. 2 ukn  PRAC 34 40 6 ROCH ROCH 
+NURS-374-A Behaviorial Health Care B.Hopp 2 ukn  LECT 15 16 1 ROCH ROCH 
+NURS-376-A Behavioral Health Care Cl C.Carlson,B.Hopp 2 ukn  PRAC 15 16 1 ROCH ROCH 
+NURS-377-A Family/Child Nursing C.Carlson,J.Edrington 4 ukn  LECT 20 25 5 ROCH ROCH 
+NURS-378-A Family/Child Nursing Clin C.Carlson, et al. 2 ukn  PRAC 19 24 5 ROCH ROCH 
+NURS-380-A Internship A.Kueny 1-4 ukn  INTRN 1 999 998 ARR ARR 
+NURS-382-A Gerontological Nursing B.Hopp 2 ukn  LECT 19 24 5 ROCH ROCH 
+NURS-384-A Evidence Based Practice J.Edrington 2 ukn  LECT 15 16 1 ROCH ROCH 
+NURS-386-A Ambulatory Care Nursing I J.Edrington 2 ukn  LECT 34 40 6 ROCH ROCH 
+NURS-390-A Nursing Leadershp Hlth Ca I.Williams 2 ukn  LECT 15 16 1 ROCH ROCH 
+NURS-420-A Population-Based Care L.McGohan 2 P01,P02 F 8:30 AM 10:00 AM LECT 15 19 4 VALD 362 
+NURS-421-A Population-Based Care Cli A.Kueny,L.McGohan 2 P01,P02,P03 MW 8:00 AM 11:00 AM PRAC 15 19 4 VALD 362 
+NURS-425-A Synthesis Clin Pract Life L.Bouska 2 P08 T 8:00 AM 9:30 AM LECT 17 19 2 VALD 349 
+NURS-425L-01 Synthesis Clin Pract Life L.Bouska 0 P08,P09 R 9:15 AM 12:15 PM LAB 9 10 1 VALD 252 
+NURS-425L-02 Synthesis Clin Pract Life L.Bouska 0 P10,P11 R 12:45 PM 3:45 PM LAB 8 10 2 VALD 252 
+NURS-480-A Leadership Capstone L.Bouska 4 ukn  PRAC 1 999 998 ARR ARR 
+NURS-490-A Senior Project A.Schlachtenhaufen 1 P08 R 8:00 AM 9:00 AM INDEP 9 10 1 VALD 349 
+NURS-490-B Senior Project A.Kueny 1 P08 R 8:00 AM 9:00 AM INDEP 9 10 1 VALD 349 
+NURS-493-A Senior Honors Project A.Kueny 0 ukn  INDEP 1 999 998 ARR ARR 
+PAID
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+PAID-111D-01 Paideia I K.Reed 4 P01 MWF 8:00 AM 9:00 AM DISC 19 19 0 KORE 216 
+PAID-111D-02 Paideia I T.Pedlar 4 P01 MWF 8:00 AM 9:00 AM DISC 19 19 0 VALD 369 
+PAID-111D-03 Paideia I M.Klammer 4 P01 MWF 8:00 AM 9:00 AM DISC 19 19 0 MAIN 213 
+PAID-111D-04 Paideia I S.Hurley 4 P01 MWF 8:00 AM 9:00 AM DISC 18 19 1 OCKH 103 
+PAID-111D-05 Paideia I J.Jenkins 4 P01 MWF 8:00 AM 9:00 AM DISC 18 19 1 MAIN 217 
+PAID-111D-06 Paideia I J.Struve 4 P01 MWF 8:00 AM 9:00 AM DISC 12 14 2 OLIN 209 
+PAID-111D-07 Paideia I M.Guerci 4 P01 MWF 8:00 AM 9:00 AM DISC 19 19 0 MAIN 218 
+PAID-111D-08 Paideia I S.Travers 4 P01 MWF 8:00 AM 9:00 AM DISC 19 17 -2 VALD 375 
+PAID-111D-09 Paideia I M.Garcia 4 P04 MWF 12:15 PM 1:15 PM DISC 14 14 0 MAIN 111 
+PAID-111D-10 Paideia I L.Kildegaard 4 P04 MWF 12:15 PM 1:15 PM DISC 18 19 1 LOYA 010 
+PAID-111D-11 Paideia I A.Weldon 4 P04 MWF 12:15 PM 1:15 PM DISC 18 17 -1 MAIN 112 
+PAID-111D-12 Paideia I D.Thompson 4 P04 MWF 12:15 PM 1:15 PM DISC 19 19 0 MAIN 217 
+PAID-111D-13 Paideia I J.Jenkins 4 P04 MWF 12:15 PM 1:15 PM DISC 19 19 0 MAIN 116B 
+PAID-111D-14 Paideia I J.Struve 4 P04 MWF 12:15 PM 1:15 PM DISC 14 14 0 OLIN 105 
+PAID-111D-15 Paideia I K.Narveson 4 P04 MWF 12:15 PM 1:15 PM DISC 19 19 0 MAIN 218 
+PAID-111D-16 Paideia I N.Whitsitt 4 P04 MWF 12:15 PM 1:15 PM DISC 19 19 0 OLIN 201 
+PAID-111D-17 Paideia I D.Thompson 4 P06 MWF 2:45 PM 3:45 PM DISC 18 19 1 MAIN 214 
+PAID-111D-18 Paideia I N.Whitsitt 4 P06 MWF 2:45 PM 3:45 PM DISC 19 19 0 LOYA 010 
+PAID-111D-19 Paideia I M.Drews 4 P06 MWF 2:45 PM 3:45 PM DISC 13 14 1 MAIN 113 
+PAID-111D-20 Paideia I L.Row-Heyveld 4 P06 MWF 2:45 PM 3:45 PM DISC 19 19 0 MAIN 212 
+PAID-111D-21 Paideia I G.Strand 4 P06 MWF 2:45 PM 3:45 PM DISC 16 19 3 MAIN 111 
+PAID-450-A Ethical Issues Fiction & M.Klammer,A.Steding 4 P09 TR 11:00 AM 12:30 PM LECT 44 44 0 OLIN 102 
+PAID-450-A Ethical Issues Fiction & M.Klammer,A.Steding 4 P09 TR 11:00 AM 12:30 PM LECT 44 44 0 OLIN 105 
+PAID-450-A Ethical Issues Fiction & M.Klammer,A.Steding 4 P09 TR 11:00 AM 12:30 PM LECT 44 44 0 OLIN 106 
+PAID-450-A Rec. Use of Natural World K.Swanson,J.Wilkerson 4 P11 TR 2:30 PM 4:00 PM LECT 35 44 9 VALD 349 
+PAID-450-A Rec. Use of Natural World K.Swanson,J.Wilkerson 4 P11 TR 2:30 PM 4:00 PM LECT 35 44 9 VALD 367 
+PAID-450-A U.S. Schools E.Steding,J.Leet-Otley 4 P02 MWF 9:15 AM 10:15 AM LECT 45 44 -1 KORE 217 
+PAID-450-A U.S. Schools E.Steding,J.Leet-Otley 4 P02 MWF 9:15 AM 10:15 AM LECT 45 44 -1 LARS 120 
+PHIL
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+PHIL-100-A Introduction to Philosoph H.Moore 4 P05 MWF 1:30 PM 2:30 PM LECT 19 25 6 VALD 375 
+PHIL-120-A Ethics S.Bailey 4 P01 MWF 8:00 AM 9:00 AM LECT 24 25 1 LOYA 010 
+PHIL-140-A Environmental Philosophy J.Jensen 4 P09 TR 11:00 AM 12:30 PM LECT 25 25 0 VALD 375 
+PHIL-270-A Existentialism H.Moore 4 P10 TR 12:45 PM 2:15 PM LECT 6 25 19 VALD 369 
+PHIL-375-A Directed Readings G.Kopf 1-4 ukn  INDEP 1 999 998 ARR ARR 
+PHIL-490-A Senior Project S.Bailey, et al. 1-4 ukn  INDEP 0 999 999 ARR ARR 
+PHIL-493-A Senior Honors Project H.Moore 0 ukn  INDEP 1 999 998 ARR ARR 
+PHYS
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+PHYS-114-A Physics in the Arts T.Pedlar 4 P05 MWF 1:30 PM 2:30 PM LECT 23 25 2 VALD 262 
+PHYS-114L-01 Physics in the Arts T.Pedlar 0 P09 T 11:00 AM 12:30 PM LAB 23 25 2 VALD 282 
+PHYS-150-A Intro to Physics/Engineer J.Wilkerson,M.Wilker 4 P08 TR 8:00 AM 9:30 AM LECT 10 21  25 4 VALD 262 ENGR-150-A[11]
+PHYS-150L-01 Int Physics/Engineering L J.Wilkerson,M.Wilker 0 P09 R 11:00 AM 12:30 PM LAB 10 10  25 15 VALD 178 
+PHYS-151-A General Physics I J.Perez 4 P02 MWF 9:15 AM 10:15 AM LECT 22 60 38 VALD 262 
+PHYS-151L-01 General Physics I Lab J.Perez 0 P08 R 7:30 AM 9:30 AM LAB 9 20 11 VALD 279 
+PHYS-151L-03 General Physics I Lab J.Perez 0 P10,P11 R 1:30 PM 3:30 PM LAB 13 20 7 VALD 282 
+PHYS-311-A Analog Electronics J.Perez 2 P10 TR 12:45 PM 2:15 PM LECT 9 13  25 12 VALD 187 ENGR-311-A[4]
+PHYS-359-A Thermodynamics & Stat Mec T.Pedlar 4 P08 TR 8:00 AM 9:30 AM LECT 7 25 18 VALD 369 
+PHYS-490-A Senior Project J.Perez, et al. 1 ukn  INDEP 4 999 995 ARR ARR 
+PHYS-491-A Senior Project J.Wilkerson 2 ukn  INDEP 1 777 776 ARR ARR 
+POLS
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+POLS-130-A American Politics M.Engelhardt 4 P03 MWF 11:00 AM 12:00 PM LECT 16 25 9 OLIN 209 
+POLS-132-A Global Politics O.Selcuk 4 P02 MWF 9:15 AM 10:15 AM LECT 25 25 0 MAIN 116B 
+POLS-139-A ST:Cntr US Supr Ct(Wash C  4 ukn  OTHR 1 1 0 OC OTHC 
+POLS-139-A ST:Int Publ Pol Anal(Wash  4 ukn  OTHR 1 1 0 OC OTHC 
+POLS-239-A Democracy and War M.Engelhardt 4 P09 TR 11:00 AM 12:30 PM LECT 5 25 20 KORE 120 
+POLS-247-A Social Policy C.Foster 4 P01 MWF 8:00 AM 9:00 AM LECT 24 24 0 KORE 217 
+POLS-355-A Constitutional Law C.Foster 4 P08 TR 8:00 AM 9:30 AM LECT 12 24 12 LOYA 010 
+POLS-375-A Directed Readings J.Moeller 2 ukn  INDEP 2 999 997 ARR ARR 
+POLS-375-B Directed Readings V.Christman 1-4 ukn  INDEP 1 999 998 ARR ARR 
+POLS-380-A Internship J.Moeller 6 ukn  INTRN 2 999 997 ARR ARR 
+POLS-485-A Sem:Justice C.Foster 4 P10 TR 12:45 PM 2:15 PM SEM 14 15 1 OLIN 201 
+POLS-490-A Senior Project M.Engelhardt, et al. 1 ukn  INDEP 3 999 996 ARR ARR 
+PSYC
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+COUN-301-A Evidence-Based Practice J.Breitenstein 2 P08 TR 8:00 AM 9:30 AM LEC2 8 25 17 VALD 345 
+PSYC-130-A General Psychology K.Gould 4 P03 MWF 11:00 AM 12:00 PM LECT 25 25 0 VALD 345 
+PSYC-130-B General Psychology K.Gould 4 P04 MWF 12:15 PM 1:15 PM LECT 24 25 1 VALD 345 
+PSYC-130-C General Psychology J.Sprung 4 P09 TR 11:00 AM 12:30 PM LECT 25 25 0 VALD 350 
+PSYC-130-D General Psychology L.Toussaint 4 P10 TR 12:45 PM 2:15 PM LECT 24 25 1 VALD 349 
+PSYC-240-A Developmental Psychology D.Njus 4 P01 MWF 8:00 AM 9:00 AM LECT 19 25 6 VALD 349 
+PSYC-240-B Developmental Psychology D.Njus 4 P02 MWF 9:15 AM 10:15 AM LECT 18 25 7 VALD 349 
+PSYC-241-A Psychology of Health/Illn L.Toussaint 4 P09 TR 11:00 AM 12:30 PM LECT 21 25 4 VALD 349 
+PSYC-249-A Brain and Behavior K.Gould 4 P02 MWF 9:15 AM 10:15 AM LECT 22 25 3 VALD 345 
+PSYC-349-A Research Methods in Psych J.Sprung 2 P08 TR 8:00 AM 9:30 AM LEC1 11 25 14 VALD 345 
+PSYC-350-A Behavioral Statistics D.Njus 4 P04 MWF 12:15 PM 1:15 PM LECT 24 25 1 VALD 350 
+PSYC-352-A Cognitive Processes S.Travers 4 P03 MWF 11:00 AM 12:00 PM LECT 18 24 6 VALD 349 
+PSYC-352L-01 Cognitive Processes Lab S.Travers 0 P08 T 8:00 AM 9:30 AM LAB 12 12 0 VALD 350 
+PSYC-352L-02 Cognitive Processes Lab S.Travers 0 P08 R 8:00 AM 9:30 AM LAB 7 12 5 VALD 350 
+PSYC-381-A Internship J.Sprung 1-4 ukn  INTRN 1 999 998 ARR ARR 
+PSYC-465-A Abnormal Psychology J.Breitenstein 4 P10 TR 12:45 PM 2:15 PM LECT 21 25 4 VALD 345 
+PSYC-465-B Abnormal Psychology J.Breitenstein 4 P11 TR 2:30 PM 4:00 PM LECT 17 25 8 VALD 345 
+PSYC-468-A Intro to Counseling J.Breitenstein 4 P09 TR 11:00 AM 12:30 PM LECT 15 25 10 VALD 371 
+PSYC-490-A Senior Project J.Breitenstein, et al. 1-4 ukn  INDEP 8 999 991 ARR ARR 
+REL
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+REL-101-A Intro to Biblical Studies G.Nave 4 P01 MWF 8:00 AM 9:00 AM DISC 24 25 1 MAIN 112 
+REL-101-B Intro to Biblical Studies G.Nave 4 P02 MWF 9:15 AM 10:15 AM DISC 26 25 -1 MAIN 112 
+REL-111-A Intro to Hebrew Bible Stu K.Swanson 4 P08 TR 8:00 AM 9:30 AM LECT 25 25 0 VALD 375 
+REL-111-B Intro to Hebrew Bible Stu K.Swanson 4 P09 TR 11:00 AM 12:30 PM LECT 25 25 0 VALD 345 
+REL-217-A Bible & Christian Faith G.Nave 4 P10 TR 12:45 PM 2:15 PM LECT 25 25 0 MAIN 111 
+REL-222-A Luther and Lutheranism W.Deifelt 4 P02 MWF 9:15 AM 10:15 AM LECT 25 25 0 OLIN 209 
+REL-223-A What's the Right Thing? G.Kopf 4 P07 M 6:00 PM 9:00 PM LECT 14 25 11 MAIN 111 
+REL-233-A God and Gender W.Deifelt 4 P03 MWF 11:00 AM 12:00 PM LECT 21 25  25 0 LOYA 010 IDS-233-A[4]
+REL-250-A Living Religions S.Hurley 4 P06 MWF 2:45 PM 3:45 PM LECT 25 25 0 OCKH 103 
+REL-255-A Identity & Diversity East G.Kopf 4 P11 TR 2:30 PM 4:00 PM LECT 22 26  25 -1 OCKH 103 IDS-255-A[4]
+REL-295-A Directed Study G.Kopf 1-4 ukn  INDEP 1 999 998 ARR ARR 
+REL-303-A Rel Pluralism Lat & Carib W.Deifelt 4 P09 TR 11:00 AM 12:30 PM LECT 19 18 -1 MAIN 213 
+REL-490-A Senior Project K.Swanson 1-4 ukn  INDEP 1 999 998 ARR ARR 
+REL-493-A Senior Honors Project G.Kopf 0 ukn  INDEP 1 999 998 ARR ARR 
+SCI
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+SCI-110-A Medical Terminology L.McGohan 1 ukn  LECT 14 999 985 ARR ARR 
+SCI-240-A Pathophysiology C.Ludeking 4 P08 TR 8:00 AM 9:30 AM LECT 35 40 5 OLIN 104 
+SASW
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+ANTH-101-A Cultural Anthropology M.Nading 4 P04 MWF 12:15 PM 1:15 PM LECT 25 25 0 LARS 120 
+ANTH-101-B Cultural Anthropology M.Nading 4 P03 MWF 11:00 AM 12:00 PM LECT 25 25 0 LARS 120 
+ANTH-102-A Biological Anthropology C.Betts 4 P05 MWF 1:30 PM 2:30 PM LECT 24 25 1 KORE 216 
+ANTH-103-A Linguistic Anthropology L.Stanley 4 P09 TR 11:00 AM 12:30 PM LECT 26 25 -1 KORE 217 
+ANTH-104-A Archaeology C.Betts 4 P02 MWF 9:15 AM 10:15 AM LECT 26 25 -1 OLIN 105 
+ANTH-211-A Quan Res Methods in Anth C.Betts 4 P08 TR 8:00 AM 9:30 AM LECT 17 25 8 MAIN 114 
+ANTH-306-A Anth of Commodity Chains M.Nading 4 P10 TR 12:45 PM 2:15 PM LECT 9 25 16 KORE 216 
+ANTH-490-A Senior Project M.Nading 1-4 ukn  INDEP 3 999 996 ARR ARR 
+GH-101-B Intro to Global Health M.Nading 2 ukn  LECT 1 777 776 ARR ARR 
+GH-201-A Case St in Global Health M.Nading 2 ukn  LECT 1 777 776 ARR ARR 
+GH-380-A Internship S.Carlson 1-8 ukn  INTRN 1 999 998 ARR ARR 
+GH-490-A Senior Project S.Carlson,M.Nading 1 ukn  INDEP 3 5 2 ARR ARR 
+SOC-101-A Intro To Sociology C.Kunkel 4 P03 MWF 11:00 AM 12:00 PM LECT 24 25 1 KORE 217 
+SOC-101-B Intro To Sociology A.Teimourigerdeh 4 P09 TR 11:00 AM 12:30 PM LECT 24 25 1 KORE 216 
+SOC-261-A Social Conflict A.Teimourigerdeh 4 P02 MWF 9:15 AM 10:15 AM LECT 6 25 19 KORE 216 
+SOC-287-A Wealth, Poverty and Class C.Kunkel 4 P05 MWF 1:30 PM 2:30 PM LECT 11 25 14 KORE 218 
+SOC-350-A Social Statistics A.Teimourigerdeh 4 P04 MWF 12:15 PM 1:15 PM LECT 8 20 12 KORE 217 
+SOC-472-A Sem:Social Institutions C.Kunkel 4 ukn  SEM 1 777 776 ARR ARR 
+SOC-490-A Senior Project C.Kunkel 1 ukn  INDEP 2  1 999 997 ARR ARR 
+SW-101-A Intro to Social Work B.Rhodes 4 P02 MWF 9:15 AM 10:15 AM LECT 27 27 0 LOYA 010 
+SW-201-A Fund of Social Work Pract P.Gilbaugh 4 P09 TR 11:00 AM 12:30 PM LECT 8 12 4 KORE 218 
+SW-301-A Social Work Pract II P.Gilbaugh 4 P12 R 6:00 PM 9:00 PM LECT 17 25 8 KORE 217 
+SW-303-A Hum Behavior in Soc Env I A.Eastwood 4 P10 TR 12:45 PM 2:15 PM LECT 19 25 6 KORE 120 
+SW-401-A Social Work Practice III P.Gilbaugh 4 P11 TR 2:30 PM 4:00 PM LECT 11 25 14 KORE 218 
+SW-402-A Field Instr in Soc Wk Pra A.Eastwood 8 ukn  PRAC 1 20 19 ARR ARR 
+SW-403-A Professional Seminar A.Eastwood 4 ukn  SEM 1 20 19 ARR ARR 
+SW-490-A Senior Project B.Rhodes 2 P03 MWF 11:00 AM 12:00 PM INDEP 10 25 15 KORE 223 
+VC
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+VC-150-A Intro to Visual Communica R.Merritt 4 P04 MWF 12:15 PM 1:15 PM LECT 20 20 0 CART 118 
+VC-150-B Intro to Visual Communica R.Merritt 4 P10 TR 12:45 PM 2:15 PM LECT 20 20 0 CART 118 
+VC-490-A Senior Project A.Lurth 2 P05 MWF 1:30 PM 2:30 PM LECT 10 999 989 ARR ARR 
+VC-493-A Senior Honors Project A.Lurth 0 ukn  INDEP 1 999 998 ARR ARR 
+VPA
+Section Title Instructor(s) Credits Prd Day(s) Start End Type Enrl xEnr cEnr Cap Avail. Location Cross-Listed
+ART-103-A Circa Now J.Madrigal 4 P10 TR 12:45 PM 2:15 PM LECT 12 16 4 STOR SCULPT 
+ART-108-A Drawing B.Moore 4 P2,P03 MW 9:15 AM 11:30 AM LECT 9 16 7 CART 215 
+ART-200-A Painting I B.Moore 4 P04,P05,P06 MW 12:15 PM 3:30 PM LECT 14 12 -2 CART 203 
+ART-206-A Graphic Design I A.Lurth 4 P02 MWF 9:15 AM 10:15 AM LECT 19 18 -1 CART 118 
+ART-206-B Graphic Design I A.Lurth 4 P03 MWF 11:00 AM 12:00 PM LECT 18 18 0 CART 118 
+ART-208-A Life Drawing B.Moore 4 P10 TR 12:45 PM 2:15 PM LECT 11 16 5 CART 215 
+ART-217-A Wheel Throwing I J.Madrigal 4 P02 MWF 9:15 AM 10:15 AM LECT 15 13 -2 CART 130A 
+ART-218-A Photography I A.Lurth 4 P09 TR 11:00 AM 12:30 PM LECT 18 18 0 CART 118 
+ART-300-A Painting II B.Moore 4 P04,P05,P06 MW 12:15 PM 3:30 PM LECT 4 4 0 CART 203 
+ART-490-A Studio, Senior Project J.Madrigal 2 P07 M 6:00 PM 9:00 PM INDEP 4 999 995 CART 117 
+ARTH-266-A Hist of Photography K.Elliott 4 P03 MWF 11:00 AM 12:00 PM LECT 26 26 0 MAIN 113 
+ARTH-379-A Art History Methods K.Elliott 2 ukn  LECT 3 5 2 ARR ARR 
+DAN-140-A Identity & Movement Analy J.Hawley 4 P10 TR 12:45 PM 2:15 PM LECT 17 21  25 4 CART 121 IDS-140-A[4]
+DAN-295-A Directed Study J.Hawley 1-4 ukn  INDEP 2 999 997 ARR ARR 
+DAN-305-A Mvmt Fund III:Prac Vocab J.Hawley 4 P06 MWF 3:00 PM 4:45 PM LECT 6 7  15 8 CART 121 IDS-305-A[1]
+THTR-100-A Prod Pract:Radio Theatre M.Dintaman,R.Vrtis 0 ukn  PRAC 0 999 999 ARR ARR 
+THTR-100-B Prod Pract: Musical M.Dintaman,R.Vrtis 0 ukn  PRAC 0 999 999 ARR ARR 
+THTR-103-A Art of Illus:Cost/Makeup/ M.Dintaman 4 P09 TR 11:00 AM 12:30 PM LECT 5 14 9 CART 119 
+THTR-103-A Art of Illus:Cost/Makeup/ M.Dintaman 4 P09 TR 11:00 AM 12:30 PM LECT 5 14 9 CART 127 
+THTR-103-B Art of Illus:Cost/Makeup/ M.Dintaman 4 P10 TR 12:45 PM 2:15 PM LECT 5 14 9 CART 119 
+THTR-103-B Art of Illus:Cost/Makeup/ M.Dintaman 4 P10 TR 12:45 PM 2:15 PM LECT 5 14 9 CART 127 
+THTR-103-C Art of Illus:Cost/Makeup/ M.Dintaman 4 P11 TR 2:30 PM 4:00 PM LECT 5 12 7 CART 119 
+THTR-103-C Art of Illus:Cost/Makeup/ M.Dintaman 4 P11 TR 2:30 PM 4:00 PM LECT 5 12 7 CART 127 
+THTR-105-A Acting I: Text in Perform R.Vrtis 4 P09 TR 11:00 AM 12:30 PM LECT 15 24 9 CART 219 
+THTR-130-A Applied Instruction L.Rothrock 1 ukn  PRIV 3 999 996 ARR ARR 
+THTR-200-A Stagecraft Practicum T.Berger 1 ukn  PRAC1 1 12 11 ARR ARR 
+THTR-200-B Stagecraft Practicum T.Berger 1 ukn  PRAC2 0 12 12 ARR ARR 
+THTR-203-A Costume History M.Dintaman 4 P02 MWF 9:15 AM 10:15 AM LECT 2 777 775 CART 117 
+THTR-222-A Acting Shakespeare's Play R.Vrtis 4 P10 TR 12:45 PM 2:15 PM LECT 8 24 16 CART 219 
+THTR-300-A Production Studio M.Dintaman 1 ukn TR 4:45 PM 5:45 PM LEC1 5 24 19 CART 119 
+THTR-395-A Independent Study M.Dintaman 1-4 ukn  INDEP 1 999 998 ARR ARR 
+THTR-490-A Senior Seminar R.Vrtis 2 P05 MF 1:30 PM 2:30 PM INDEP 4 999 995 CART 219 
+THTR-491-A Senior Project M.Dintaman 2 ukn  INDEP 1 777 776 ARR ARR 
