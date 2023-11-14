@@ -145,7 +145,6 @@ public class Team {
      */
     @Override
     public String toString() {
-        // TODO Implement this method
         return name + "\n" + conference + " | " + division + "\n" + address + "\n" + "Roster size: " + roster.size();
     }
 }

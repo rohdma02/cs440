@@ -5,5 +5,5 @@ import org.dizitart.no2.Nitrite;
 import org.dizitart.no2.NitriteCollection;
 
 public class TinyCollege {
-
+    
 }

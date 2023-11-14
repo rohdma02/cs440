@@ -96,7 +96,6 @@ public class Address {
 
     @Override
     public String toString() {
-        // TODO Implement this method
         return arena.toString() + "\n" + street.toString() + "\n" + city.toString() + ", " + state.toString() + " " + zip.toString() + "\n" + phone.toString() + "\n" + url.toString();
     }
 }
