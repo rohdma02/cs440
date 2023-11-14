@@ -67,22 +67,22 @@ def main():
     query_data(db, (q.table == "STUDENT"))
 
     print("Query 6: Get courses that Joe is taking")
-    joe_courses_query = (
+    joe_courses = (
         (q.table == 'STUDENT') & (q.data['SName'] == 'joe'),
         (q.table == 'ENROLL') & (q.data['StudentId'] == q.table._element.SId)
     )
-    joe_student_id = db.search(joe_courses_query[0])[0]['data']['SId']
+    joe_id = db.search(joe_courses[0])[0]['data']['SId']
     query_data(db, (q.table == 'ENROLL') & (
-        q.data['StudentId'] == joe_student_id))
+        q.data['StudentId'] == joe_id))
 
     print("Query 7: Get All courses that Turing teaches")
-    turing_courses_query = (
+    prof_courses = (
         (q.table == 'SECTION') & (q.data['Prof'] == 'turing'),
         (q.table == 'COURSE') & (q.data['CId'] == q.table._element.CourseId)
     )
     query_data(db, (q.table == 'COURSE') & (
         q.data['CId'].one_of(entry['data']['CourseId'] for entry in db.search(
-            turing_courses_query[0]))))
+            prof_courses[0]))))
 
     print("Query 8: Get all students that have A's")
     students_with_a = (
@@ -96,7 +96,7 @@ def main():
         q.data['SId'].one_of(students_id_a)))
 
     print("Query 9: The drama majors who never took a math course")
-    drama_majors_query = (
+    drama_majors = (
         (q.table == 'STUDENT') & (q.data['MajorId'] == '30'),
         (q.table == 'ENROLL') & (q.data['StudentId'] == q.table._element.SId),
         (q.table == 'COURSE') & (q.data['DeptId'] == '30'),
@@ -105,15 +105,15 @@ def main():
         (q.table == 'COURSE') & (q.data['DeptId'] == '20')
     )
     drama_major_ids = {entry['data']['SId']
-                       for entry in db.search(drama_majors_query[0])}
-    drama_major_math_course_ids = {entry['data']['StudentId'] for entry in db.search(
+                       for entry in db.search(drama_majors[0])}
+    drama_math_course_id = {entry['data']['StudentId'] for entry in db.search(
         (q.table == 'STUDENT') & (q.data['SId'].one_of(drama_major_ids)) &
         (q.table == 'ENROLL') & (q.data['StudentId'] == q.table._element.SId) &
         (q.table == 'COURSE') & (q.data['DeptId'] == '20')
     )}
-    drama_majors_without_math_course_ids = drama_major_ids - drama_major_math_course_ids
+    drama_major_no_math = drama_major_ids - drama_math_course_id
     query_data(db, (q.table == 'STUDENT') & (
-        q.data['SId'].one_of(list(drama_majors_without_math_course_ids))))
+        q.data['SId'].one_of(list(drama_major_no_math))))
 
     print("Query 10: The section that Sue and Kim took together")
 
@@ -122,17 +122,17 @@ def main():
     kim_id = db.search((q.table == 'STUDENT') & (
         q.data['SName'] == 'kim'))[0]['data']['SId']
 
-    sue_enrollments = {entry['data']['SectionId'] for entry in db.search(
+    sue_enroll = {entry['data']['SectionId'] for entry in db.search(
         (q.table == 'ENROLL') & (q.data['StudentId'] == sue_id))}
 
-    kim_enrollments = {entry['data']['SectionId'] for entry in db.search(
+    kim_enroll = {entry['data']['SectionId'] for entry in db.search(
         (q.table == 'ENROLL') & (q.data['StudentId'] == kim_id))}
 
-    sections_sue_and_kim_took_together = sue_enrollments.intersection(
-        kim_enrollments)
+    query = sue_enroll.intersection(
+        kim_enroll)
 
     print("Sections Sue and Kim took together:",
-          sections_sue_and_kim_took_together)
+          query)
 
 
 if __name__ == "__main__":
